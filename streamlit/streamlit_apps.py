@@ -10,10 +10,14 @@ import os
 cwd = os.getcwd()
 st.write(f"Current Working Directory: {cwd}")
 
-# Menampilkan isi direktori saat ini
-files_in_cwd = os.listdir(cwd)
-st.write(f"Isi dari direktori {cwd}:")
-st.write(files_in_cwd)
+# Menampilkan isi dari folder cwd/model
+model_dir = os.path.join(cwd, 'model')  # Menyusun path ke folder 'model'
+if os.path.exists(model_dir):
+    files_in_model_dir = os.listdir(model_dir)
+    st.write(f"Isi dari folder {model_dir}:")
+    st.write(files_in_model_dir)
+else:
+    st.write(f"Folder '{model_dir}' tidak ditemukan.")
 
 # Memuat model yang sudah dilatih
 model = xgb.Booster(model_file="/model/xgb_narkolepsi.json")
