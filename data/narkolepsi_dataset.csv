@@ -1,0 +1,1001 @@
+Usia,Jenis_Kelamin,Riwayat_Family_Narkolepsi,Frekuensi_Kantuk_Siang,Pengalaman_Katapleksi,Pengalaman_Hallusinasi_Tidur,Pengalaman_Paralisis_Tidur,Durasi_Tidur_Malam,Kualitas_Tidur_Malam,Durasi_Tidur_Siang,Frekuensi_Gangguan_Sleep,Riwayat_Gangguan_Medis,Tes_Sleep_Latency_MSLT,Kantuk_Dipicu_Emosi,Label_Diagnosis_Narkolepsi
+50,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,7.1,Ya,Tidak
+34,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,9.8,Tidak,Tidak
+24,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,3.2,Tidak,Ya
+42,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,6,Baik,30,Tidak,Tidak,11.3,Ya,Ya
+42,Pria,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,10.5,Tidak,Tidak
+53,Pria,Ya,Sering,Ya,Ya,Tidak,6,Baik,90,Ya,Tidak,11.6,Ya,Ya
+66,Wanita,Tidak,Jarang,Tidak,Ya,Ya,9,Baik,60,Ya,Ya,4.8,Tidak,Ya
+66,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Tidak,3.5,Tidak,Ya
+34,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Tidak,10.2,Tidak,Tidak
+61,Wanita,Ya,Jarang,Tidak,Tidak,Ya,7,Baik,30,Tidak,Tidak,10.5,Tidak,Tidak
+42,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Tidak,9,Baik,90,Tidak,Ya,5.9,Tidak,Tidak
+52,Wanita,Tidak,Sering,Tidak,Ya,Tidak,7,Baik,90,Tidak,Ya,6.7,Ya,Ya
+25,Pria,Tidak,Sering,Ya,Tidak,Ya,6,Baik,60,Ya,Ya,6.9,Tidak,Ya
+28,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,9.1,Ya,Ya
+45,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Tidak,4.2,Tidak,Ya
+42,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,5.4,Ya,Tidak
+44,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Tidak,11.6,Tidak,Tidak
+42,Pria,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,90,Ya,Tidak,11.5,Tidak,Tidak
+18,Wanita,Ya,Jarang,Ya,Tidak,Tidak,6,Baik,90,Tidak,Ya,7.1,Ya,Tidak
+19,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,30,Tidak,Tidak,9.5,Tidak,Tidak
+59,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,10.2,Ya,Tidak
+58,Pria,Tidak,Sangat sering,Ya,Ya,Tidak,7,Baik,30,Tidak,Tidak,3.5,Tidak,Ya
+30,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Tidak,4.8,Ya,Ya
+61,Pria,Ya,Sering,Ya,Tidak,Tidak,7,Baik,90,Tidak,Tidak,7.4,Tidak,Ya
+60,Wanita,Tidak,Sangat sering,Tidak,Ya,Ya,8,Baik,60,Tidak,Tidak,11.8,Ya,Ya
+42,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Tidak,10.8,Tidak,Tidak
+32,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,4.9,Tidak,Ya
+19,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,6,Baik,90,Tidak,Ya,8.5,Ya,Tidak
+24,Pria,Ya,Sering,Tidak,Ya,Ya,6,Baik,30,Ya,Tidak,7.4,Tidak,Ya
+38,Wanita,Tidak,Sangat sering,Tidak,Ya,Tidak,8,Baik,30,Ya,Tidak,10.9,Tidak,Ya
+29,Pria,Ya,Sering,Ya,Tidak,Tidak,6,Baik,30,Ya,Tidak,8.0,Ya,Ya
+62,Wanita,Ya,Sering,Tidak,Ya,Ya,9,Baik,60,Ya,Tidak,8.9,Ya,Ya
+36,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,5.1,Tidak,Tidak
+40,Pria,Ya,Sering,Ya,Ya,Ya,9,Baik,90,Tidak,Tidak,5.8,Ya,Ya
+53,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Tidak,10.8,Tidak,Tidak
+26,Pria,Ya,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,30,Ya,Tidak,7.1,Ya,Tidak
+38,Pria,Ya,Sering,Tidak,Ya,Ya,7,Baik,90,Ya,Tidak,4.5,Tidak,Ya
+26,Pria,Tidak,Sangat sering,Ya,Tidak,Ya,8,Baik,30,Tidak,Tidak,8.5,Tidak,Ya
+68,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Tidak,2.2,Tidak,Ya
+31,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,3.3,Ya,Ya
+65,Pria,Tidak,Sangat sering,Tidak,Ya,Ya,6,Baik,30,Ya,Tidak,4.7,Ya,Ya
+32,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Tidak,6.3,Tidak,Tidak
+53,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,30,Tidak,Ya,6.3,Tidak,Ya
+65,Pria,Tidak,Sering,Tidak,Ya,Ya,8,Baik,90,Tidak,Ya,2.7,Tidak,Ya
+69,Wanita,Ya,Kadang-kadang,Tidak,Ya,Tidak,7,Baik,30,Tidak,Ya,9.6,Ya,Tidak
+39,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,8,Baik,90,Tidak,Tidak,7.6,Tidak,Tidak
+37,Wanita,Ya,Sering,Ya,Ya,Ya,7,Baik,60,Ya,Ya,9.8,Ya,Ya
+36,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,60,Ya,Tidak,10.8,Ya,Tidak
+34,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,60,Tidak,Tidak,8.8,Ya,Ya
+66,Wanita,Ya,Sering,Ya,Tidak,Ya,7,Baik,30,Tidak,Tidak,9.9,Tidak,Ya
+58,Pria,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,60,Ya,Tidak,2.2,Tidak,Ya
+43,Pria,Ya,Sangat sering,Ya,Ya,Tidak,9,Baik,30,Tidak,Tidak,4.1,Tidak,Ya
+46,Pria,Ya,Sering,Ya,Ya,Ya,8,Baik,60,Tidak,Ya,8.4,Ya,Ya
+58,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Ya,2.1,Ya,Ya
+48,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Ya,4.9,Tidak,Ya
+52,Wanita,Tidak,Sangat sering,Tidak,Ya,Ya,9,Baik,60,Ya,Tidak,6.8,Ya,Ya
+25,Wanita,Ya,Sangat sering,Ya,Ya,Ya,6,Baik,30,Tidak,Tidak,3.1,Tidak,Ya
+47,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,8,Baik,60,Ya,Tidak,9.9,Tidak,Ya
+37,Wanita,Tidak,Jarang,Ya,Ya,Tidak,7,Baik,90,Tidak,Tidak,5.6,Ya,Tidak
+61,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,2.1,Tidak,Ya
+62,Wanita,Ya,Sering,Ya,Ya,Tidak,8,Baik,90,Ya,Ya,4.0,Tidak,Ya
+65,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,2.0,Ya,Ya
+61,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,9,Baik,60,Tidak,Tidak,5.7,Ya,Ya
+45,Pria,Ya,Sangat sering,Ya,Tidak,Ya,8,Baik,90,Ya,Ya,6.5,Tidak,Ya
+38,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,6,Baik,90,Ya,Tidak,10.9,Tidak,Tidak
+36,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,11.9,Ya,Tidak
+50,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,6,Baik,90,Ya,Ya,7.1,Tidak,Ya
+48,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Ya,2.7,Tidak,Ya
+26,Pria,Tidak,Sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Ya,3.9,Tidak,Ya
+61,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,6,Baik,60,Tidak,Ya,2.8,Ya,Ya
+65,Wanita,Tidak,Kadang-kadang,Ya,Ya,Tidak,6,Baik,30,Ya,Tidak,3.8,Ya,Ya
+31,Pria,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,30,Ya,Ya,2.2,Tidak,Ya
+26,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,2.7,Ya,Ya
+52,Wanita,Tidak,Sangat sering,Tidak,Ya,Ya,8,Baik,60,Tidak,Tidak,7.7,Tidak,Ya
+57,Wanita,Ya,Sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Tidak,10.2,Ya,Ya
+32,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,8.9,Tidak,Tidak
+45,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,6,Baik,30,Ya,Ya,11.5,Ya,Ya
+26,Wanita,Ya,Sering,Ya,Ya,Ya,9,Baik,60,Ya,Ya,6.7,Ya,Ya
+27,Pria,Ya,Sering,Ya,Tidak,Ya,8,Baik,60,Ya,Tidak,2.6,Tidak,Ya
+46,Wanita,Ya,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,60,Ya,Tidak,10.5,Ya,Tidak
+47,Pria,Tidak,Sering,Ya,Tidak,Ya,6,Baik,60,Tidak,Tidak,2.4,Tidak,Ya
+37,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,9.9,Tidak,Tidak
+29,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,5.8,Ya,Tidak
+36,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,90,Ya,Tidak,4.9,Tidak,Ya
+68,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,8.7,Tidak,Tidak
+46,Wanita,Tidak,Sering,Tidak,Tidak,Ya,8,Baik,30,Tidak,Tidak,5.0,Tidak,Ya
+53,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,2.7,Tidak,Ya
+56,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,7.8,Tidak,Tidak
+64,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,90,Tidak,Tidak,2.2,Ya,Ya
+65,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,60,Tidak,Tidak,8.7,Ya,Tidak
+28,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,5.0,Tidak,Tidak
+21,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,8.5,Tidak,Tidak
+57,Wanita,Ya,Sering,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,10.9,Ya,Ya
+19,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,3.8,Ya,Ya
+68,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,8,Baik,60,Ya,Ya,5.8,Ya,Tidak
+61,Wanita,Ya,Sering,Ya,Ya,Tidak,8,Baik,90,Ya,Ya,8.1,Tidak,Ya
+25,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,8,Baik,60,Tidak,Tidak,3.4,Ya,Ya
+64,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,5.0,Tidak,Tidak
+56,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Ya,8.4,Ya,Tidak
+50,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,6,Baik,60,Ya,Tidak,5.4,Ya,Tidak
+64,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,7,Baik,30,Tidak,Tidak,6.8,Tidak,Tidak
+18,Pria,Ya,Sering,Tidak,Ya,Ya,8,Baik,60,Tidak,Tidak,4.8,Tidak,Ya
+36,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,4.3,Ya,Ya
+45,Pria,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Tidak,11.1,Ya,Tidak
+54,Pria,Tidak,Jarang,Tidak,Ya,Tidak,7,Baik,90,Ya,Tidak,5.9,Ya,Tidak
+41,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,30,Tidak,Tidak,6.8,Ya,Tidak
+39,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Tidak,8.3,Ya,Tidak
+33,Pria,Tidak,Sering,Ya,Tidak,Tidak,7,Baik,60,Tidak,Tidak,5.1,Ya,Ya
+65,Pria,Ya,Sangat sering,Ya,Tidak,Ya,8,Baik,90,Ya,Tidak,4.6,Ya,Ya
+52,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,30,Ya,Ya,4.9,Ya,Ya
+69,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,7,Baik,90,Tidak,Ya,11.0,Ya,Ya
+24,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,5.1,Tidak,Tidak
+60,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Ya,4.8,Ya,Ya
+56,Pria,Tidak,Jarang,Ya,Ya,Ya,8,Baik,90,Tidak,Tidak,4.2,Tidak,Ya
+25,Pria,Ya,Sangat sering,Tidak,Ya,Ya,7,Baik,30,Ya,Tidak,10.7,Tidak,Ya
+47,Pria,Ya,Sering,Ya,Tidak,Ya,9,Baik,90,Ya,Ya,2.1,Tidak,Ya
+63,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,6,Baik,30,Tidak,Ya,9.3,Tidak,Tidak
+50,Pria,Tidak,Sering,Ya,Tidak,Tidak,8,Baik,30,Ya,Tidak,7.4,Tidak,Ya
+44,Pria,Ya,Sering,Tidak,Tidak,Ya,6,Baik,60,Ya,Tidak,5.0,Tidak,Ya
+61,Pria,Ya,Sering,Tidak,Tidak,Ya,7,Baik,30,Tidak,Tidak,6.9,Tidak,Ya
+66,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Tidak,5.1,Tidak,Tidak
+28,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,30,Tidak,Tidak,3.3,Tidak,Ya
+37,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Ya,4.0,Ya,Ya
+59,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Tidak,4.8,Tidak,Ya
+41,Pria,Tidak,Sering,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,11.4,Tidak,Ya
+50,Pria,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,30,Ya,Tidak,11.7,Ya,Ya
+54,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,7,Baik,60,Ya,Tidak,2.1,Tidak,Ya
+45,Pria,Ya,Sering,Ya,Tidak,Tidak,8,Baik,90,Ya,Ya,5.7,Tidak,Ya
+32,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,6.1,Ya,Tidak
+51,Pria,Ya,Kadang-kadang,Tidak,Ya,Tidak,9,Baik,30,Ya,Tidak,6.4,Tidak,Tidak
+59,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,11.4,Ya,Tidak
+18,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,4.1,Ya,Ya
+41,Wanita,Tidak,Sangat sering,Tidak,Ya,Tidak,6,Baik,60,Ya,Ya,8.5,Tidak,Ya
+44,Wanita,Tidak,Sering,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,9.7,Tidak,Ya
+49,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,9,Baik,90,Ya,Tidak,8.1,Tidak,Ya
+28,Wanita,Ya,Jarang,Tidak,Tidak,Ya,9,Baik,60,Tidak,Tidak,9.8,Ya,Tidak
+66,Pria,Ya,Sering,Tidak,Tidak,Ya,8,Baik,30,Ya,Ya,3.3,Ya,Ya
+70,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,7.2,Tidak,Tidak
+47,Pria,Ya,Jarang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Tidak,3.8,Ya,Ya
+26,Pria,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,60,Ya,Tidak,5.8,Ya,Tidak
+27,Wanita,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,30,Tidak,Tidak,3.1,Ya,Ya
+42,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,9.2,Ya,Tidak
+55,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,6,Baik,30,Ya,Tidak,6.0,Tidak,Tidak
+55,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,90,Ya,Tidak,8.8,Tidak,Ya
+42,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,7.1,Ya,Tidak
+24,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,90,Ya,Tidak,11.2,Tidak,Tidak
+45,Pria,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,30,Ya,Ya,10.2,Tidak,Ya
+63,Wanita,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,60,Tidak,Tidak,4.1,Tidak,Ya
+27,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,3.1,Ya,Ya
+54,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,60,Ya,Tidak,7.6,Ya,Tidak
+58,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,30,Tidak,Tidak,6.4,Ya,Tidak
+56,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,9,Baik,90,Tidak,Tidak,6.0,Tidak,Tidak
+58,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,8,Baik,60,Tidak,Ya,6.3,Ya,Tidak
+67,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,6.6,Ya,Tidak
+65,Pria,Tidak,Kadang-kadang,Ya,Ya,Ya,6,Baik,60,Tidak,Tidak,5.0,Tidak,Tidak
+23,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,9,Baik,90,Ya,Tidak,10.2,Tidak,Tidak
+68,Pria,Ya,Sering,Ya,Tidak,Ya,7,Baik,30,Tidak,Tidak,11.6,Tidak,Ya
+39,Pria,Tidak,Jarang,Tidak,Ya,Tidak,7,Baik,60,Ya,Ya,11.0,Ya,Tidak
+26,Wanita,Ya,Sering,Tidak,Ya,Ya,9,Baik,60,Ya,Tidak,11.4,Ya,Ya
+41,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,8,Baik,60,Ya,Tidak,11.5,Ya,Ya
+52,Pria,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,60,Ya,Tidak,11.1,Ya,Ya
+64,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,8,Baik,60,Ya,Ya,2.0,Ya,Ya
+58,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,5.0,Ya,Tidak
+59,Pria,Tidak,Sering,Ya,Tidak,Tidak,8,Baik,60,Tidak,Tidak,3.2,Ya,Ya
+19,Wanita,Ya,Sering,Tidak,Tidak,Ya,8,Baik,60,Ya,Tidak,6.8,Ya,Ya
+30,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Ya,10.4,Tidak,Tidak
+34,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,6.8,Tidak,Tidak
+27,Wanita,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,90,Ya,Ya,7.0,Ya,Ya
+59,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Ya,6.7,Ya,Tidak
+29,Wanita,Tidak,Sering,Ya,Tidak,Ya,7,Baik,90,Ya,Ya,2.6,Ya,Ya
+44,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,11.9,Ya,Tidak
+47,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,90,Tidak,Tidak,7.2,Tidak,Ya
+49,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,4.7,Ya,Ya
+42,Wanita,Ya,Jarang,Tidak,Tidak,Ya,7,Baik,60,Tidak,Tidak,11.6,Ya,Tidak
+49,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,11.5,Tidak,Tidak
+65,Wanita,Ya,Sering,Ya,Ya,Tidak,8,Baik,90,Tidak,Tidak,5.9,Tidak,Ya
+30,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,9.9,Ya,Tidak
+34,Pria,Tidak,Jarang,Ya,Tidak,Ya,6,Baik,60,Tidak,Tidak,7.9,Ya,Tidak
+50,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,4.1,Tidak,Ya
+62,Pria,Ya,Sering,Tidak,Ya,Tidak,6,Baik,60,Ya,Tidak,2.6,Ya,Ya
+46,Wanita,Ya,Sering,Ya,Tidak,Ya,9,Baik,90,Ya,Tidak,9.6,Tidak,Ya
+42,Wanita,Ya,Sering,Tidak,Ya,Tidak,8,Baik,30,Tidak,Tidak,10.9,Ya,Ya
+24,Pria,Ya,Sering,Ya,Ya,Ya,9,Baik,60,Tidak,Tidak,9.5,Tidak,Ya
+47,Wanita,Tidak,Sangat sering,Tidak,Ya,Tidak,9,Baik,30,Tidak,Tidak,6.6,Ya,Ya
+65,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Ya,9.9,Ya,Tidak
+52,Pria,Tidak,Jarang,Tidak,Ya,Tidak,8,Baik,90,Tidak,Tidak,7.9,Tidak,Tidak
+56,Wanita,Ya,Sering,Tidak,Tidak,Ya,8,Baik,90,Ya,Tidak,3.9,Ya,Ya
+70,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,60,Tidak,Ya,5.1,Tidak,Tidak
+18,Pria,Ya,Sering,Ya,Tidak,Ya,9,Baik,60,Tidak,Ya,2.7,Ya,Ya
+25,Wanita,Tidak,Sering,Tidak,Ya,Tidak,6,Baik,30,Ya,Ya,2.6,Ya,Ya
+68,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,10.4,Ya,Tidak
+45,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,7.0,Tidak,Tidak
+47,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,2.3,Ya,Ya
+21,Wanita,Ya,Sering,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,2.0,Tidak,Ya
+61,Wanita,Ya,Sering,Tidak,Ya,Tidak,9,Baik,60,Tidak,Ya,5.1,Ya,Ya
+37,Pria,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,30,Tidak,Tidak,10.9,Ya,Ya
+66,Pria,Ya,Sering,Ya,Ya,Ya,7,Baik,30,Tidak,Ya,2.1,Ya,Ya
+20,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,3.1,Tidak,Ya
+51,Wanita,Tidak,Sering,Tidak,Ya,Tidak,7,Baik,30,Ya,Ya,7.0,Ya,Ya
+53,Wanita,Tidak,Sering,Ya,Tidak,Ya,7,Baik,30,Ya,Tidak,8.4,Tidak,Ya
+46,Pria,Ya,Sering,Ya,Ya,Tidak,8,Baik,90,Tidak,Tidak,8.5,Tidak,Ya
+48,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,8.1,Tidak,Tidak
+38,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,9.6,Ya,Tidak
+29,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,8,Baik,90,Ya,Tidak,7.5,Ya,Ya
+52,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,6,Baik,30,Tidak,Tidak,4.1,Tidak,Ya
+62,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,10.2,Ya,Ya
+31,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,6,Baik,30,Tidak,Ya,10.5,Ya,Ya
+19,Pria,Ya,Sering,Tidak,Ya,Tidak,6,Baik,30,Tidak,Ya,10.7,Tidak,Ya
+19,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,8,Baik,90,Ya,Ya,4.9,Tidak,Ya
+44,Wanita,Ya,Sangat sering,Ya,Ya,Ya,6,Baik,90,Ya,Tidak,3.0,Ya,Ya
+61,Wanita,Tidak,Jarang,Tidak,Ya,Ya,7,Baik,30,Tidak,Ya,9.1,Tidak,Tidak
+32,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,8.8,Ya,Tidak
+56,Pria,Tidak,Sangat sering,Ya,Ya,Ya,8,Baik,60,Tidak,Tidak,9.1,Tidak,Ya
+20,Wanita,Tidak,Sangat sering,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,6.2,Tidak,Ya
+68,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,11.1,Tidak,Tidak
+67,Wanita,Tidak,Sering,Tidak,Ya,Tidak,6,Baik,90,Ya,Tidak,11.5,Tidak,Ya
+61,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,5.2,Tidak,Tidak
+28,Wanita,Tidak,Sangat sering,Tidak,Ya,Ya,8,Baik,30,Ya,Ya,10.7,Tidak,Ya
+63,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,6.4,Tidak,Tidak
+44,Pria,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,2.8,Ya,Ya
+49,Pria,Tidak,Sangat sering,Ya,Tidak,Ya,9,Baik,60,Tidak,Tidak,4.7,Ya,Ya
+49,Wanita,Ya,Sering,Ya,Tidak,Ya,9,Baik,30,Tidak,Tidak,6.8,Tidak,Ya
+44,Pria,Ya,Sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Tidak,9.6,Ya,Ya
+34,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,10.9,Ya,Tidak
+21,Pria,Tidak,Sering,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,8.1,Tidak,Ya
+34,Wanita,Ya,Sering,Tidak,Tidak,Ya,6,Baik,90,Ya,Tidak,4.7,Tidak,Ya
+23,Pria,Ya,Sering,Tidak,Ya,Ya,7,Baik,60,Ya,Tidak,11.7,Tidak,Ya
+35,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Ya,2.6,Ya,Ya
+39,Wanita,Ya,Sering,Ya,Ya,Ya,9,Baik,30,Tidak,Tidak,5.0,Tidak,Ya
+50,Pria,Ya,Kadang-kadang,Ya,Ya,Tidak,9,Baik,60,Ya,Tidak,9.9,Tidak,Tidak
+21,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Ya,7.4,Tidak,Tidak
+56,Wanita,Ya,Sering,Tidak,Tidak,Ya,6,Baik,60,Ya,Ya,5.2,Tidak,Ya
+28,Wanita,Tidak,Sangat sering,Tidak,Ya,Ya,6,Baik,60,Tidak,Tidak,10.1,Ya,Ya
+47,Pria,Ya,Sangat sering,Tidak,Ya,Ya,8,Baik,30,Tidak,Tidak,11.4,Ya,Ya
+56,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Ya,4.4,Tidak,Ya
+69,Pria,Tidak,Sering,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,7.1,Ya,Ya
+62,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,2.6,Tidak,Ya
+69,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,60,Ya,Ya,11.6,Tidak,Ya
+60,Pria,Ya,Sangat sering,Ya,Ya,Ya,7,Baik,30,Tidak,Tidak,4.1,Tidak,Ya
+45,Wanita,Tidak,Sering,Ya,Ya,Ya,6,Baik,60,Tidak,Ya,10.8,Ya,Ya
+60,Pria,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,10.3,Tidak,Tidak
+44,Wanita,Tidak,Kadang-kadang,Ya,Ya,Ya,6,Baik,90,Ya,Tidak,8.1,Tidak,Tidak
+54,Wanita,Tidak,Sering,Tidak,Ya,Tidak,8,Baik,90,Ya,Tidak,7.2,Tidak,Ya
+27,Wanita,Tidak,Sangat sering,Ya,Ya,Tidak,7,Baik,60,Tidak,Tidak,7.3,Tidak,Ya
+45,Wanita,Ya,Sering,Ya,Ya,Tidak,7,Baik,30,Ya,Tidak,6.8,Ya,Ya
+62,Pria,Tidak,Jarang,Ya,Tidak,Tidak,6,Baik,60,Tidak,Tidak,3.5,Tidak,Ya
+18,Pria,Ya,Jarang,Ya,Ya,Ya,6,Baik,60,Ya,Tidak,3.4,Tidak,Ya
+52,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,3.3,Ya,Ya
+69,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,8,Baik,30,Ya,Tidak,2.1,Ya,Ya
+58,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,60,Ya,Ya,9.2,Tidak,Ya
+39,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,11.9,Tidak,Tidak
+48,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,12.0,Tidak,Tidak
+44,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,30,Ya,Ya,6.9,Tidak,Tidak
+39,Pria,Ya,Sangat sering,Ya,Ya,Tidak,6,Baik,30,Tidak,Ya,10.0,Tidak,Ya
+38,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,9,Baik,30,Tidak,Tidak,11.2,Ya,Ya
+31,Wanita,Ya,Sering,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,2.9,Tidak,Ya
+24,Pria,Tidak,Sering,Ya,Tidak,Ya,7,Baik,90,Tidak,Tidak,9.6,Tidak,Ya
+21,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,9,Baik,90,Ya,Ya,9.8,Tidak,Ya
+31,Pria,Ya,Sering,Ya,Tidak,Ya,7,Baik,30,Tidak,Ya,11.9,Tidak,Ya
+69,Pria,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,30,Tidak,Tidak,2.5,Ya,Ya
+61,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,10.7,Tidak,Tidak
+49,Pria,Tidak,Sangat sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,11.1,Tidak,Ya
+55,Pria,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,6.2,Ya,Tidak
+18,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,8.3,Tidak,Tidak
+58,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,8.9,Tidak,Tidak
+35,Pria,Ya,Sering,Tidak,Ya,Ya,8,Baik,30,Tidak,Tidak,5.0,Tidak,Ya
+64,Wanita,Ya,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,90,Ya,Tidak,10.3,Tidak,Tidak
+30,Pria,Ya,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,60,Tidak,Tidak,6.8,Ya,Tidak
+18,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,6,Baik,90,Tidak,Ya,11.6,Ya,Tidak
+60,Pria,Ya,Sering,Tidak,Ya,Tidak,8,Baik,90,Ya,Tidak,11.5,Ya,Ya
+20,Pria,Ya,Sering,Ya,Tidak,Ya,8,Baik,60,Tidak,Ya,11.1,Ya,Ya
+32,Pria,Ya,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,90,Tidak,Tidak,8.5,Tidak,Tidak
+30,Pria,Tidak,Sangat sering,Tidak,Ya,Tidak,9,Baik,90,Tidak,Ya,11.3,Tidak,Ya
+51,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,7,Baik,30,Ya,Ya,11.3,Tidak,Ya
+46,Wanita,Ya,Sering,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,7.7,Ya,Ya
+32,Pria,Tidak,Jarang,Tidak,Tidak,Ya,6,Baik,60,Tidak,Tidak,3.1,Ya,Ya
+26,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,5.8,Tidak,Tidak
+64,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Ya,7.9,Tidak,Tidak
+70,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,9,Baik,60,Tidak,Tidak,9.0,Tidak,Tidak
+42,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,30,Ya,Ya,5.7,Tidak,Tidak
+68,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Ya,11.8,Ya,Ya
+53,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,7,Baik,90,Tidak,Ya,6.0,Tidak,Tidak
+26,Pria,Ya,Sering,Tidak,Ya,Ya,7,Baik,90,Tidak,Ya,7.0,Ya,Ya
+57,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,7,Baik,90,Ya,Ya,10.6,Ya,Tidak
+66,Wanita,Tidak,Sangat sering,Tidak,Tidak,Ya,8,Baik,60,Ya,Tidak,9.7,Tidak,Ya
+36,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,7,Baik,90,Ya,Ya,8.3,Tidak,Ya
+24,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Tidak,10.5,Ya,Tidak
+66,Wanita,Tidak,Sering,Tidak,Ya,Ya,8,Baik,30,Tidak,Ya,10.1,Tidak,Ya
+44,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Tidak,4.5,Ya,Ya
+62,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,6,Baik,90,Ya,Ya,5.7,Tidak,Ya
+42,Pria,Tidak,Jarang,Tidak,Ya,Tidak,8,Baik,60,Ya,Tidak,2.8,Ya,Ya
+58,Pria,Ya,Sering,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,7.2,Tidak,Ya
+38,Wanita,Ya,Sering,Ya,Tidak,Tidak,8,Baik,90,Tidak,Tidak,9.9,Ya,Ya
+62,Pria,Tidak,Sangat sering,Ya,Tidak,Ya,8,Baik,90,Tidak,Tidak,8.2,Tidak,Ya
+45,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,9.1,Tidak,Tidak
+49,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Ya,2.1,Ya,Ya
+54,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,8,Baik,90,Tidak,Ya,7.6,Ya,Tidak
+57,Pria,Tidak,Sering,Tidak,Ya,Ya,9,Baik,60,Ya,Tidak,8.1,Tidak,Ya
+49,Pria,Tidak,Kadang-kadang,Ya,Tidak,Ya,9,Baik,90,Ya,Tidak,4.9,Tidak,Ya
+39,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,7.5,Ya,Ya
+19,Pria,Ya,Sering,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,9.1,Ya,Ya
+42,Wanita,Ya,Sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,5.2,Ya,Ya
+51,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Ya,9.0,Tidak,Tidak
+33,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,30,Tidak,Ya,5.0,Ya,Ya
+22,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,8,Baik,30,Ya,Tidak,4.6,Ya,Ya
+25,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Ya,10.3,Ya,Tidak
+24,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,4.0,Ya,Ya
+45,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,6,Baik,30,Tidak,Ya,7.8,Ya,Tidak
+58,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,6,Baik,60,Ya,Tidak,3.8,Ya,Ya
+40,Pria,Ya,Sering,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Tidak,2.9,Tidak,Ya
+24,Wanita,Ya,Kadang-kadang,Tidak,Ya,Tidak,7,Baik,30,Tidak,Ya,7.1,Tidak,Tidak
+69,Pria,Tidak,Sangat sering,Ya,Ya,Tidak,6,Baik,30,Ya,Tidak,3.9,Ya,Ya
+45,Pria,Ya,Sering,Tidak,Ya,Tidak,7,Baik,30,Tidak,Tidak,11.6,Ya,Ya
+23,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,10.9,Tidak,Tidak
+49,Wanita,Ya,Sering,Ya,Ya,Tidak,7,Baik,60,Tidak,Ya,5.1,Ya,Ya
+31,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,9.9,Tidak,Ya
+61,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,8,Baik,30,Ya,Ya,11.3,Ya,Ya
+29,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Ya,10.3,Ya,Tidak
+28,Wanita,Ya,Sering,Ya,Ya,Ya,9,Baik,30,Ya,Tidak,6.9,Ya,Ya
+58,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,6,Baik,90,Ya,Ya,11.0,Tidak,Tidak
+22,Pria,Ya,Sangat sering,Ya,Tidak,Ya,9,Baik,30,Tidak,Tidak,2.3,Ya,Ya
+20,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,11.9,Tidak,Tidak
+20,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,9,Baik,90,Ya,Tidak,8.9,Tidak,Ya
+34,Wanita,Ya,Sering,Ya,Ya,Ya,7,Baik,30,Ya,Tidak,5.3,Ya,Ya
+48,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,9,Baik,30,Ya,Tidak,7.4,Ya,Ya
+40,Wanita,Ya,Sering,Ya,Ya,Ya,9,Baik,30,Tidak,Tidak,8.4,Ya,Ya
+53,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Ya,9.6,Ya,Tidak
+49,Wanita,Ya,Sering,Ya,Tidak,Tidak,6,Baik,90,Tidak,Tidak,10.4,Ya,Ya
+19,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,10.4,Ya,Ya
+24,Wanita,Ya,Sering,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,2.9,Ya,Ya
+63,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,6.4,Tidak,Tidak
+27,Pria,Ya,Sangat sering,Ya,Ya,Tidak,7,Baik,30,Tidak,Tidak,4.5,Ya,Ya
+52,Pria,Tidak,Kadang-kadang,Ya,Tidak,Ya,7,Baik,90,Ya,Tidak,7.4,Tidak,Tidak
+30,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,8,Baik,30,Ya,Tidak,10.1,Ya,Ya
+52,Wanita,Tidak,Sangat sering,Tidak,Tidak,Ya,8,Baik,60,Ya,Tidak,4.6,Tidak,Ya
+31,Pria,Ya,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,90,Tidak,Ya,10.8,Tidak,Tidak
+65,Pria,Ya,Sering,Ya,Tidak,Ya,8,Baik,60,Tidak,Ya,3.6,Tidak,Ya
+58,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,6,Baik,90,Ya,Tidak,9.5,Ya,Tidak
+21,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Tidak,Ya,9.4,Ya,Ya
+61,Pria,Tidak,Sering,Ya,Tidak,Tidak,7,Baik,90,Ya,Tidak,3.0,Tidak,Ya
+55,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,9,Baik,30,Tidak,Tidak,11.9,Ya,Ya
+59,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,8,Baik,60,Tidak,Ya,9.8,Tidak,Ya
+23,Pria,Ya,Sering,Ya,Tidak,Tidak,8,Baik,60,Ya,Ya,11.4,Ya,Ya
+62,Pria,Ya,Sering,Ya,Ya,Tidak,6,Baik,60,Tidak,Ya,2.2,Ya,Ya
+43,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,60,Tidak,Ya,9.4,Ya,Tidak
+67,Pria,Ya,Sering,Tidak,Tidak,Ya,7,Baik,90,Tidak,Tidak,6.1,Tidak,Ya
+37,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Ya,5.5,Ya,Tidak
+50,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,30,Ya,Ya,9.8,Tidak,Tidak
+50,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,6,Baik,30,Ya,Tidak,8.0,Tidak,Ya
+37,Wanita,Ya,Sering,Ya,Ya,Tidak,7,Baik,90,Ya,Tidak,8.6,Tidak,Ya
+34,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,90,Tidak,Ya,7.5,Tidak,Tidak
+37,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Tidak,Tidak,6.5,Tidak,Ya
+65,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,7,Baik,60,Tidak,Tidak,11.3,Tidak,Tidak
+50,Pria,Ya,Sering,Ya,Ya,Tidak,6,Baik,60,Tidak,Tidak,2.7,Ya,Ya
+58,Wanita,Ya,Sering,Ya,Ya,Tidak,8,Baik,30,Tidak,Tidak,3.6,Ya,Ya
+49,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Tidak,11.2,Ya,Tidak
+22,Pria,Ya,Sangat sering,Ya,Ya,Ya,6,Baik,30,Ya,Ya,9.9,Ya,Ya
+61,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,11.5,Tidak,Tidak
+70,Pria,Ya,Sering,Ya,Ya,Ya,6,Baik,30,Tidak,Ya,4.6,Tidak,Ya
+56,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Ya,2.8,Ya,Ya
+54,Wanita,Ya,Sering,Ya,Ya,Tidak,7,Baik,90,Ya,Tidak,11.0,Tidak,Ya
+23,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,7.1,Tidak,Tidak
+22,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,30,Tidak,Tidak,5.5,Ya,Tidak
+18,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,8,Baik,30,Ya,Tidak,7.5,Ya,Tidak
+69,Pria,Ya,Kadang-kadang,Ya,Ya,Ya,9,Baik,90,Ya,Tidak,7.3,Ya,Tidak
+49,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,9,Baik,60,Ya,Tidak,10.0,Tidak,Ya
+66,Pria,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Ya,2.3,Tidak,Ya
+26,Pria,Ya,Sering,Ya,Ya,Ya,6,Baik,90,Tidak,Tidak,6.4,Tidak,Ya
+69,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,7,Baik,30,Tidak,Tidak,5.3,Tidak,Ya
+31,Wanita,Ya,Sering,Tidak,Ya,Ya,9,Baik,90,Ya,Ya,6.2,Tidak,Ya
+30,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,90,Ya,Tidak,4.8,Ya,Ya
+65,Pria,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,90,Ya,Tidak,8.1,Ya,Ya
+43,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,60,Ya,Ya,11.7,Tidak,Tidak
+48,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,6.9,Ya,Tidak
+45,Pria,Ya,Sering,Tidak,Ya,Ya,8,Baik,90,Ya,Ya,7.5,Tidak,Ya
+50,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,90,Ya,Ya,10.9,Tidak,Tidak
+23,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,2.5,Tidak,Ya
+55,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,8.4,Ya,Tidak
+65,Wanita,Tidak,Jarang,Tidak,Ya,Ya,8,Baik,30,Ya,Ya,6.1,Ya,Tidak
+33,Pria,Tidak,Kadang-kadang,Ya,Tidak,Ya,9,Baik,90,Ya,Tidak,6.6,Ya,Tidak
+63,Wanita,Tidak,Sangat sering,Ya,Ya,Tidak,6,Baik,30,Ya,Tidak,2.5,Tidak,Ya
+29,Pria,Ya,Sangat sering,Ya,Tidak,Ya,8,Baik,90,Ya,Tidak,6.3,Tidak,Ya
+46,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,3.3,Tidak,Ya
+24,Pria,Ya,Jarang,Tidak,Tidak,Ya,6,Baik,90,Ya,Tidak,2.2,Ya,Ya
+60,Pria,Ya,Kadang-kadang,Tidak,Ya,Ya,6,Baik,90,Ya,Tidak,10.6,Tidak,Tidak
+60,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,90,Ya,Tidak,10.2,Ya,Tidak
+52,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,8.6,Tidak,Ya
+36,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,3.1,Tidak,Ya
+42,Pria,Ya,Sering,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,9.5,Ya,Ya
+24,Wanita,Ya,Sering,Ya,Tidak,Tidak,6,Baik,90,Ya,Tidak,8.2,Ya,Ya
+18,Pria,Ya,Sering,Ya,Tidak,Tidak,8,Baik,90,Ya,Ya,8.1,Ya,Ya
+63,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,10.6,Tidak,Tidak
+39,Pria,Ya,Sangat sering,Ya,Ya,Tidak,7,Baik,90,Ya,Tidak,11.0,Ya,Ya
+36,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,6,Baik,60,Ya,Tidak,5.0,Ya,Tidak
+46,Pria,Tidak,Sering,Tidak,Ya,Ya,6,Baik,30,Tidak,Tidak,11.1,Ya,Ya
+47,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,60,Tidak,Tidak,4.2,Tidak,Ya
+70,Pria,Ya,Sering,Tidak,Tidak,Ya,9,Baik,90,Ya,Ya,8.8,Tidak,Ya
+37,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Tidak,6.6,Ya,Tidak
+25,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,8.8,Tidak,Tidak
+67,Pria,Tidak,Sering,Ya,Tidak,Tidak,9,Baik,30,Tidak,Tidak,9.0,Tidak,Ya
+44,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,9,Baik,30,Tidak,Ya,10.8,Ya,Ya
+58,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,7.5,Ya,Ya
+52,Pria,Ya,Sering,Ya,Ya,Tidak,6,Baik,90,Ya,Tidak,9.1,Tidak,Ya
+24,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,11.1,Ya,Tidak
+47,Wanita,Ya,Sering,Ya,Ya,Tidak,6,Baik,60,Tidak,Tidak,4.4,Ya,Ya
+21,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,2.9,Ya,Ya
+30,Pria,Tidak,Sangat sering,Tidak,Ya,Tidak,6,Baik,60,Tidak,Tidak,3.0,Ya,Ya
+67,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,6,Baik,60,Tidak,Ya,7.0,Ya,Ya
+34,Wanita,Ya,Sering,Ya,Tidak,Ya,6,Baik,60,Ya,Ya,5.0,Tidak,Ya
+33,Pria,Ya,Sering,Tidak,Ya,Tidak,8,Baik,30,Ya,Tidak,4.0,Ya,Ya
+40,Wanita,Ya,Sering,Ya,Tidak,Tidak,9,Baik,30,Ya,Ya,9.6,Tidak,Ya
+69,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,9.0,Tidak,Tidak
+19,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,6,Baik,90,Ya,Ya,6.0,Tidak,Ya
+55,Pria,Ya,Sangat sering,Ya,Tidak,Ya,9,Baik,60,Tidak,Tidak,4.3,Tidak,Ya
+19,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,4.7,Tidak,Ya
+58,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Tidak,8,Baik,90,Tidak,Tidak,5.7,Tidak,Tidak
+24,Pria,Ya,Sangat sering,Tidak,Ya,Ya,8,Baik,90,Ya,Tidak,11.6,Ya,Ya
+65,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,7,Baik,90,Tidak,Ya,3.9,Tidak,Ya
+45,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,5.8,Tidak,Tidak
+51,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Tidak,3.4,Ya,Ya
+63,Pria,Ya,Sering,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,5.8,Ya,Ya
+38,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,2.8,Ya,Ya
+57,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Tidak,8.4,Ya,Tidak
+19,Wanita,Tidak,Sering,Ya,Tidak,Tidak,6,Baik,60,Ya,Ya,11.0,Ya,Ya
+47,Wanita,Ya,Sering,Ya,Ya,Ya,6,Baik,90,Ya,Ya,5.5,Tidak,Ya
+64,Wanita,Tidak,Sering,Ya,Ya,Tidak,9,Baik,90,Tidak,Tidak,11.9,Tidak,Ya
+57,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,6,Baik,60,Tidak,Tidak,5.0,Ya,Ya
+31,Pria,Tidak,Sering,Ya,Tidak,Ya,6,Baik,60,Tidak,Ya,3.7,Tidak,Ya
+65,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,5.8,Ya,Tidak
+56,Pria,Tidak,Jarang,Ya,Tidak,Ya,8,Baik,60,Ya,Ya,3.4,Ya,Ya
+60,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,30,Tidak,Tidak,4.8,Tidak,Ya
+55,Wanita,Ya,Sering,Tidak,Ya,Ya,7,Baik,30,Tidak,Tidak,8.0,Ya,Ya
+68,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,8,Baik,90,Ya,Ya,6.9,Ya,Ya
+30,Pria,Ya,Sangat sering,Ya,Ya,Tidak,9,Baik,90,Ya,Ya,10.1,Ya,Ya
+19,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Tidak,Tidak,11.6,Ya,Ya
+29,Pria,Ya,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,30,Ya,Ya,10.9,Tidak,Tidak
+63,Wanita,Ya,Jarang,Ya,Tidak,Ya,9,Baik,30,Ya,Tidak,8.9,Ya,Tidak
+62,Pria,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,60,Tidak,Tidak,5.9,Tidak,Tidak
+37,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,6.7,Tidak,Tidak
+63,Wanita,Ya,Sering,Tidak,Ya,Tidak,9,Baik,60,Ya,Tidak,2.0,Tidak,Ya
+50,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,5.4,Tidak,Tidak
+69,Wanita,Ya,Sering,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Tidak,9.7,Ya,Ya
+27,Pria,Ya,Sering,Ya,Ya,Tidak,7,Baik,60,Ya,Tidak,7.9,Ya,Ya
+30,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,7.8,Tidak,Ya
+59,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,30,Ya,Ya,10.3,Tidak,Ya
+46,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,6,Baik,90,Tidak,Ya,5.9,Ya,Tidak
+60,Pria,Ya,Sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Ya,6.0,Tidak,Ya
+62,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,7.3,Tidak,Tidak
+38,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,60,Ya,Tidak,6.3,Ya,Tidak
+42,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,5.4,Tidak,Ya
+61,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Ya,2.2,Tidak,Ya
+48,Pria,Ya,Sering,Ya,Ya,Tidak,7,Baik,60,Ya,Tidak,6.8,Ya,Ya
+29,Pria,Ya,Kadang-kadang,Tidak,Ya,Tidak,8,Baik,60,Ya,Tidak,3.5,Ya,Ya
+66,Pria,Tidak,Jarang,Ya,Ya,Tidak,8,Baik,90,Tidak,Tidak,10.6,Ya,Tidak
+49,Pria,Tidak,Sering,Tidak,Tidak,Tidak,9,Baik,90,Ya,Ya,7.5,Tidak,Ya
+23,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,9.3,Tidak,Tidak
+63,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Tidak,2.1,Tidak,Ya
+35,Pria,Ya,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,60,Ya,Tidak,5.5,Tidak,Tidak
+58,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,7,Baik,60,Tidak,Tidak,9.0,Ya,Ya
+58,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Ya,9.0,Tidak,Tidak
+25,Wanita,Ya,Sering,Ya,Ya,Ya,6,Baik,90,Ya,Tidak,7.7,Tidak,Ya
+52,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Tidak,11.4,Ya,Tidak
+70,Wanita,Ya,Jarang,Tidak,Tidak,Ya,8,Baik,90,Tidak,Tidak,9.7,Tidak,Tidak
+58,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Ya,7.5,Ya,Ya
+24,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Ya,8.1,Tidak,Tidak
+69,Wanita,Tidak,Sering,Ya,Ya,Tidak,7,Baik,60,Tidak,Ya,6.4,Tidak,Ya
+68,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,6.3,Ya,Tidak
+26,Wanita,Ya,Jarang,Ya,Tidak,Tidak,7,Baik,60,Ya,Tidak,7.5,Tidak,Tidak
+55,Wanita,Tidak,Jarang,Ya,Tidak,Ya,7,Baik,90,Ya,Tidak,7.7,Tidak,Tidak
+29,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Tidak,7,Baik,90,Ya,Ya,9.4,Ya,Tidak
+48,Pria,Tidak,Sering,Tidak,Tidak,Ya,7,Baik,90,Tidak,Tidak,7.3,Tidak,Ya
+58,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,7,Baik,90,Ya,Ya,9.7,Tidak,Ya
+28,Pria,Ya,Sering,Ya,Tidak,Ya,7,Baik,60,Ya,Ya,5.3,Ya,Ya
+42,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Tidak,3.7,Tidak,Ya
+27,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,60,Ya,Tidak,8.1,Ya,Tidak
+51,Pria,Ya,Sering,Ya,Ya,Tidak,6,Baik,90,Tidak,Tidak,7.9,Ya,Ya
+30,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,6,Baik,30,Tidak,Tidak,6.4,Ya,Tidak
+47,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,5.3,Ya,Tidak
+53,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,2.2,Ya,Ya
+42,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,7,Baik,60,Ya,Tidak,5.0,Tidak,Ya
+58,Wanita,Tidak,Sering,Tidak,Ya,Tidak,9,Baik,60,Ya,Tidak,7.4,Ya,Ya
+43,Wanita,Tidak,Sering,Ya,Ya,Ya,6,Baik,60,Tidak,Ya,9.0,Ya,Ya
+66,Pria,Ya,Sangat sering,Tidak,Tidak,Ya,7,Baik,90,Ya,Tidak,7.3,Tidak,Ya
+32,Wanita,Ya,Sering,Tidak,Ya,Ya,7,Baik,60,Tidak,Ya,7.0,Tidak,Ya
+49,Pria,Ya,Jarang,Ya,Ya,Tidak,7,Baik,60,Ya,Tidak,7.8,Tidak,Tidak
+49,Pria,Ya,Jarang,Tidak,Tidak,Ya,6,Baik,30,Ya,Tidak,7.1,Tidak,Tidak
+32,Wanita,Ya,Jarang,Tidak,Tidak,Ya,6,Baik,60,Tidak,Ya,6.7,Tidak,Tidak
+68,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,6.7,Ya,Tidak
+24,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Ya,5.0,Ya,Tidak
+47,Wanita,Ya,Sering,Tidak,Ya,Ya,8,Baik,30,Tidak,Tidak,7.9,Tidak,Ya
+57,Wanita,Tidak,Sering,Tidak,Ya,Ya,7,Baik,60,Ya,Tidak,7.5,Ya,Ya
+49,Wanita,Tidak,Sering,Ya,Tidak,Tidak,6,Baik,60,Ya,Tidak,4.3,Ya,Ya
+70,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,90,Ya,Tidak,3.5,Tidak,Ya
+63,Pria,Tidak,Jarang,Ya,Ya,Ya,7,Baik,90,Ya,Tidak,7.8,Tidak,Tidak
+30,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,8,Baik,30,Tidak,Tidak,10.1,Ya,Ya
+53,Wanita,Ya,Sering,Ya,Tidak,Ya,6,Baik,60,Tidak,Tidak,8.9,Tidak,Ya
+27,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,5.6,Ya,Tidak
+65,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,8,Baik,30,Tidak,Tidak,3.8,Ya,Ya
+34,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,90,Ya,Tidak,12.0,Tidak,Tidak
+54,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,2.0,Ya,Ya
+42,Wanita,Ya,Kadang-kadang,Ya,Tidak,Ya,8,Baik,60,Tidak,Ya,7.9,Ya,Tidak
+19,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Tidak,9.7,Tidak,Tidak
+52,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,8,Baik,60,Ya,Ya,3.5,Tidak,Ya
+67,Pria,Tidak,Sangat sering,Ya,Tidak,Ya,6,Baik,90,Ya,Ya,11.8,Tidak,Ya
+68,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,10.1,Tidak,Tidak
+40,Wanita,Ya,Sangat sering,Tidak,Ya,Tidak,7,Baik,90,Tidak,Ya,3.7,Ya,Ya
+40,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,9.8,Ya,Tidak
+23,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,30,Ya,Tidak,11.7,Tidak,Tidak
+36,Wanita,Ya,Jarang,Ya,Tidak,Tidak,8,Baik,90,Ya,Tidak,9.3,Ya,Tidak
+67,Pria,Ya,Sangat sering,Tidak,Ya,Ya,9,Baik,60,Tidak,Tidak,5.2,Ya,Ya
+43,Pria,Tidak,Jarang,Ya,Tidak,Tidak,8,Baik,30,Ya,Tidak,4.3,Tidak,Ya
+32,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,11.4,Tidak,Ya
+40,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Tidak,8,Baik,30,Ya,Tidak,5.5,Ya,Tidak
+26,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Ya,5.1,Tidak,Ya
+63,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,11.9,Ya,Tidak
+63,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,6,Baik,90,Tidak,Tidak,8.5,Tidak,Tidak
+18,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Tidak,10.9,Tidak,Tidak
+58,Pria,Ya,Sering,Ya,Tidak,Tidak,7,Baik,30,Ya,Tidak,6.2,Tidak,Ya
+34,Pria,Ya,Sering,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,3.3,Ya,Ya
+27,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,8,Baik,30,Ya,Ya,10.1,Tidak,Ya
+30,Wanita,Ya,Sering,Ya,Tidak,Ya,9,Baik,90,Ya,Tidak,8.3,Ya,Ya
+26,Pria,Ya,Sangat sering,Ya,Tidak,Ya,7,Baik,90,Tidak,Tidak,6.6,Ya,Ya
+67,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,9,Baik,60,Tidak,Tidak,11.2,Tidak,Ya
+32,Wanita,Tidak,Sering,Ya,Ya,Tidak,8,Baik,60,Ya,Tidak,2.0,Ya,Ya
+69,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,8,Baik,30,Ya,Tidak,8.0,Ya,Ya
+54,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,8,Baik,90,Tidak,Tidak,2.6,Ya,Ya
+57,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Ya,12.0,Tidak,Tidak
+41,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,9,Baik,30,Ya,Tidak,4.8,Ya,Ya
+41,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,9,Baik,60,Ya,Tidak,7.1,Ya,Ya
+26,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,90,Ya,Tidak,10.1,Ya,Tidak
+36,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,9,Baik,60,Ya,Tidak,10.7,Tidak,Tidak
+38,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,9.5,Tidak,Tidak
+66,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,2.1,Tidak,Ya
+55,Pria,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,30,Ya,Tidak,10.9,Tidak,Ya
+63,Pria,Tidak,Sering,Tidak,Tidak,Ya,9,Baik,60,Tidak,Tidak,3.5,Tidak,Ya
+44,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,10.4,Tidak,Ya
+63,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Ya,4.9,Tidak,Ya
+65,Wanita,Ya,Sering,Ya,Tidak,Ya,8,Baik,60,Tidak,Ya,3.5,Tidak,Ya
+54,Pria,Ya,Sangat sering,Ya,Ya,Tidak,6,Baik,90,Ya,Tidak,5.8,Ya,Ya
+62,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,6,Baik,90,Ya,Tidak,11.5,Tidak,Ya
+44,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Ya,5.9,Ya,Tidak
+42,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,6,Baik,30,Tidak,Tidak,11.1,Ya,Tidak
+59,Wanita,Ya,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,60,Ya,Ya,7.9,Tidak,Tidak
+38,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Tidak,11.0,Ya,Tidak
+68,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,8,Baik,90,Tidak,Tidak,4.1,Ya,Ya
+32,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,60,Ya,Tidak,10.2,Tidak,Tidak
+27,Pria,Tidak,Jarang,Tidak,Ya,Tidak,7,Baik,30,Tidak,Tidak,4.4,Ya,Ya
+26,Pria,Tidak,Sering,Tidak,Ya,Ya,7,Baik,60,Tidak,Tidak,2.5,Ya,Ya
+39,Pria,Ya,Jarang,Tidak,Tidak,Ya,9,Baik,60,Ya,Tidak,6.5,Ya,Tidak
+54,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Tidak,4.8,Ya,Ya
+62,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,90,Ya,Ya,5.6,Ya,Tidak
+19,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,60,Tidak,Ya,11.6,Tidak,Tidak
+33,Wanita,Ya,Jarang,Tidak,Tidak,Ya,8,Baik,30,Ya,Ya,11.2,Ya,Tidak
+62,Pria,Ya,Sering,Ya,Ya,Tidak,6,Baik,60,Ya,Tidak,8.3,Tidak,Ya
+52,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Ya,9.7,Tidak,Tidak
+53,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,5.3,Tidak,Tidak
+34,Pria,Ya,Sering,Ya,Tidak,Tidak,7,Baik,60,Ya,Ya,4.0,Ya,Ya
+47,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,30,Tidak,Ya,4.9,Ya,Ya
+26,Pria,Ya,Sangat sering,Ya,Ya,Tidak,7,Baik,90,Ya,Tidak,3.5,Ya,Ya
+46,Pria,Tidak,Jarang,Ya,Tidak,Tidak,8,Baik,30,Tidak,Tidak,10.3,Ya,Tidak
+61,Wanita,Ya,Sering,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,6.9,Tidak,Ya
+62,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,4.8,Tidak,Ya
+35,Pria,Ya,Sangat sering,Ya,Ya,Ya,6,Baik,90,Tidak,Tidak,3.9,Tidak,Ya
+45,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,2.9,Tidak,Ya
+51,Wanita,Tidak,Sangat sering,Tidak,Tidak,Ya,8,Baik,60,Tidak,Tidak,7.8,Ya,Ya
+53,Wanita,Ya,Sering,Ya,Tidak,Tidak,6,Baik,30,Ya,Tidak,11.2,Ya,Ya
+40,Pria,Ya,Sering,Ya,Tidak,Tidak,7,Baik,90,Ya,Ya,11.6,Tidak,Ya
+45,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,30,Tidak,Tidak,5.6,Tidak,Tidak
+64,Wanita,Tidak,Sangat sering,Ya,Ya,Tidak,9,Baik,90,Ya,Tidak,7.4,Tidak,Ya
+31,Pria,Tidak,Sangat sering,Ya,Ya,Ya,7,Baik,30,Ya,Ya,2.3,Ya,Ya
+34,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,60,Ya,Ya,6.5,Tidak,Tidak
+43,Wanita,Tidak,Sering,Tidak,Tidak,Ya,9,Baik,30,Ya,Tidak,9.2,Tidak,Ya
+65,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Tidak,8.4,Ya,Tidak
+19,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,7,Baik,60,Ya,Ya,7.6,Tidak,Ya
+27,Pria,Tidak,Sering,Ya,Tidak,Ya,9,Baik,30,Tidak,Ya,9.2,Ya,Ya
+62,Pria,Tidak,Sering,Ya,Ya,Tidak,7,Baik,30,Tidak,Tidak,5.8,Ya,Ya
+38,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,5.3,Ya,Tidak
+36,Wanita,Tidak,Sering,Tidak,Ya,Ya,9,Baik,30,Ya,Ya,12.0,Ya,Ya
+62,Wanita,Tidak,Sangat sering,Ya,Tidak,Ya,9,Baik,90,Ya,Tidak,6.7,Tidak,Ya
+63,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Tidak,5.4,Tidak,Tidak
+40,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,8.7,Tidak,Tidak
+47,Pria,Ya,Sering,Ya,Tidak,Tidak,7,Baik,90,Ya,Ya,10.5,Tidak,Ya
+67,Pria,Ya,Sangat sering,Ya,Ya,Tidak,9,Baik,30,Ya,Tidak,9.9,Ya,Ya
+63,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,5.8,Tidak,Tidak
+60,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,9.0,Ya,Tidak
+48,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,3.8,Ya,Ya
+43,Wanita,Ya,Sering,Tidak,Ya,Tidak,7,Baik,90,Ya,Tidak,10.1,Tidak,Ya
+58,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,60,Ya,Tidak,11.4,Ya,Tidak
+30,Pria,Tidak,Jarang,Ya,Ya,Tidak,8,Baik,30,Ya,Tidak,6.3,Ya,Tidak
+58,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Tidak,2.6,Tidak,Ya
+28,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,2.8,Tidak,Ya
+49,Pria,Ya,Sering,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,11.6,Ya,Ya
+39,Wanita,Ya,Sering,Ya,Tidak,Tidak,7,Baik,90,Tidak,Tidak,2.9,Tidak,Ya
+47,Wanita,Ya,Sering,Ya,Ya,Ya,8,Baik,30,Ya,Ya,8.2,Tidak,Ya
+54,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Ya,9.7,Tidak,Tidak
+37,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,9,Baik,60,Ya,Tidak,4.2,Tidak,Ya
+18,Pria,Tidak,Sangat sering,Ya,Tidak,Ya,8,Baik,90,Tidak,Tidak,2.9,Tidak,Ya
+32,Pria,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Ya,9.3,Ya,Tidak
+47,Pria,Tidak,Sering,Tidak,Ya,Ya,8,Baik,90,Ya,Ya,8.0,Tidak,Ya
+21,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Ya,Ya,7.7,Tidak,Tidak
+35,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,7,Baik,30,Ya,Ya,10.4,Ya,Tidak
+37,Wanita,Ya,Sering,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,11.0,Ya,Ya
+22,Pria,Tidak,Sering,Tidak,Tidak,Ya,7,Baik,60,Ya,Tidak,5.2,Tidak,Ya
+51,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,11.0,Ya,Tidak
+51,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,6,Baik,30,Ya,Tidak,5.3,Tidak,Ya
+37,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,7.0,Ya,Tidak
+19,Pria,Tidak,Sangat sering,Ya,Tidak,Ya,7,Baik,90,Ya,Tidak,11.0,Ya,Ya
+46,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Tidak,6.0,Ya,Tidak
+68,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,6,Baik,30,Ya,Tidak,7.6,Tidak,Ya
+18,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,5.1,Ya,Tidak
+49,Wanita,Ya,Jarang,Ya,Tidak,Tidak,9,Baik,30,Ya,Ya,8.6,Tidak,Tidak
+46,Wanita,Ya,Jarang,Ya,Tidak,Ya,7,Baik,30,Tidak,Ya,6.7,Ya,Tidak
+52,Pria,Ya,Sangat sering,Ya,Tidak,Ya,7,Baik,90,Ya,Tidak,2.3,Tidak,Ya
+50,Pria,Tidak,Sangat sering,Tidak,Ya,Ya,6,Baik,30,Ya,Ya,11.1,Tidak,Ya
+32,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Ya,6,Baik,60,Tidak,Tidak,4.6,Tidak,Ya
+56,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,10.2,Tidak,Tidak
+49,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Tidak,3.7,Ya,Ya
+55,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,8,Baik,60,Tidak,Ya,2.0,Tidak,Ya
+54,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,6.8,Tidak,Tidak
+25,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,10.9,Tidak,Tidak
+58,Pria,Tidak,Sangat sering,Ya,Ya,Tidak,8,Baik,90,Ya,Ya,6.1,Tidak,Ya
+29,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,2.9,Tidak,Ya
+18,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Ya,11.6,Ya,Tidak
+34,Pria,Ya,Sering,Ya,Ya,Tidak,7,Baik,30,Ya,Tidak,8.2,Tidak,Ya
+25,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,11.6,Tidak,Tidak
+58,Pria,Tidak,Sangat sering,Tidak,Tidak,Ya,8,Baik,90,Ya,Tidak,7.4,Tidak,Ya
+60,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Tidak,Tidak,11.3,Ya,Tidak
+65,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,6.0,Ya,Tidak
+30,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,2.7,Ya,Ya
+27,Pria,Ya,Sangat sering,Ya,Ya,Ya,7,Baik,90,Tidak,Tidak,5.9,Ya,Ya
+68,Pria,Ya,Sering,Ya,Tidak,Ya,6,Baik,90,Tidak,Tidak,10.8,Tidak,Ya
+50,Wanita,Ya,Sangat sering,Tidak,Ya,Tidak,8,Baik,60,Ya,Ya,7.5,Ya,Ya
+44,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,2.7,Ya,Ya
+43,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,60,Ya,Ya,10.8,Tidak,Tidak
+55,Wanita,Tidak,Sering,Ya,Ya,Ya,7,Baik,90,Ya,Tidak,11.7,Tidak,Ya
+70,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,10.4,Tidak,Tidak
+38,Wanita,Tidak,Sering,Ya,Tidak,Tidak,8,Baik,90,Tidak,Ya,9.9,Tidak,Ya
+47,Pria,Tidak,Sangat sering,Tidak,Ya,Ya,8,Baik,90,Tidak,Tidak,9.2,Tidak,Ya
+50,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,7,Baik,30,Ya,Ya,3.4,Tidak,Ya
+33,Pria,Ya,Sangat sering,Ya,Ya,Ya,9,Baik,30,Tidak,Ya,2.5,Tidak,Ya
+27,Pria,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,60,Tidak,Tidak,2.8,Tidak,Ya
+63,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Tidak,7.8,Tidak,Tidak
+21,Wanita,Ya,Sering,Tidak,Ya,Ya,7,Baik,60,Ya,Tidak,6.9,Ya,Ya
+22,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,4.4,Ya,Ya
+59,Pria,Ya,Sangat sering,Tidak,Ya,Ya,9,Baik,90,Ya,Ya,5.2,Tidak,Ya
+40,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,2.8,Tidak,Ya
+23,Pria,Tidak,Sering,Tidak,Ya,Ya,8,Baik,60,Ya,Ya,11.7,Tidak,Ya
+27,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,90,Ya,Tidak,11.0,Ya,Tidak
+61,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Ya,3.9,Ya,Ya
+41,Wanita,Ya,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,90,Tidak,Tidak,5.6,Tidak,Tidak
+38,Wanita,Tidak,Sering,Ya,Ya,Tidak,8,Baik,30,Ya,Tidak,5.5,Ya,Ya
+33,Pria,Tidak,Sering,Ya,Tidak,Tidak,8,Baik,30,Ya,Tidak,6.6,Ya,Ya
+37,Pria,Ya,Sangat sering,Tidak,Tidak,Ya,9,Baik,60,Ya,Tidak,8.6,Ya,Ya
+63,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,8,Baik,60,Tidak,Tidak,10.0,Ya,Tidak
+54,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,9,Baik,90,Tidak,Ya,2.1,Tidak,Ya
+59,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,9,Baik,60,Tidak,Tidak,3.9,Ya,Ya
+18,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,9.9,Tidak,Tidak
+37,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,6.5,Tidak,Tidak
+43,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,2.9,Tidak,Ya
+66,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Ya,3.2,Ya,Ya
+64,Pria,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,3.3,Tidak,Ya
+43,Pria,Ya,Sangat sering,Ya,Ya,Tidak,6,Baik,30,Ya,Ya,8.2,Ya,Ya
+22,Wanita,Ya,Sering,Tidak,Ya,Tidak,8,Baik,60,Tidak,Tidak,2.2,Tidak,Ya
+27,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,2.3,Ya,Ya
+56,Wanita,Tidak,Sering,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Tidak,3.5,Tidak,Ya
+25,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,8,Baik,60,Tidak,Tidak,7.9,Tidak,Ya
+33,Pria,Tidak,Sangat sering,Ya,Ya,Tidak,9,Baik,60,Ya,Ya,3.2,Tidak,Ya
+29,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Ya,6.1,Ya,Tidak
+18,Wanita,Ya,Sering,Tidak,Ya,Tidak,9,Baik,60,Ya,Tidak,2.8,Tidak,Ya
+50,Wanita,Tidak,Sangat sering,Tidak,Tidak,Ya,8,Baik,30,Tidak,Ya,5.4,Tidak,Ya
+22,Wanita,Tidak,Sering,Ya,Ya,Tidak,9,Baik,30,Ya,Tidak,10.5,Ya,Ya
+18,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Ya,9.8,Ya,Tidak
+44,Wanita,Tidak,Sangat sering,Tidak,Ya,Tidak,9,Baik,90,Ya,Tidak,9.6,Tidak,Ya
+28,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,60,Ya,Tidak,5.4,Tidak,Tidak
+39,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,9.7,Ya,Tidak
+43,Pria,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,90,Ya,Tidak,5.6,Tidak,Ya
+45,Wanita,Ya,Sangat sering,Ya,Ya,Ya,6,Baik,60,Ya,Tidak,5.1,Tidak,Ya
+25,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,7.6,Tidak,Tidak
+34,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,3.8,Ya,Ya
+21,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,6,Baik,30,Ya,Tidak,4.7,Ya,Ya
+53,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,7.9,Ya,Tidak
+50,Wanita,Ya,Sering,Tidak,Ya,Ya,9,Baik,30,Ya,Tidak,4.1,Ya,Ya
+55,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Tidak,3.1,Tidak,Ya
+51,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Ya,2.7,Ya,Ya
+59,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,30,Tidak,Tidak,3.9,Tidak,Ya
+25,Pria,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Ya,8.7,Ya,Tidak
+51,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,8,Baik,90,Tidak,Tidak,4.4,Ya,Ya
+19,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Tidak,7.5,Ya,Tidak
+22,Wanita,Tidak,Sering,Ya,Ya,Ya,9,Baik,90,Tidak,Ya,5.0,Tidak,Ya
+58,Wanita,Ya,Jarang,Ya,Tidak,Tidak,9,Baik,90,Tidak,Tidak,6.6,Tidak,Tidak
+38,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,4.6,Tidak,Ya
+43,Pria,Tidak,Sering,Ya,Ya,Tidak,7,Baik,90,Tidak,Ya,6.0,Tidak,Ya
+22,Pria,Tidak,Kadang-kadang,Ya,Ya,Tidak,9,Baik,60,Ya,Ya,10.2,Ya,Tidak
+39,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,8,Baik,30,Ya,Tidak,2.7,Ya,Ya
+37,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Ya,7,Baik,60,Ya,Tidak,4.6,Tidak,Ya
+19,Wanita,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,90,Tidak,Tidak,7.6,Tidak,Ya
+19,Pria,Ya,Sangat sering,Ya,Tidak,Ya,9,Baik,60,Ya,Tidak,5.6,Tidak,Ya
+52,Pria,Tidak,Kadang-kadang,Tidak,Ya,Ya,9,Baik,60,Tidak,Tidak,10.4,Ya,Tidak
+37,Wanita,Tidak,Sering,Ya,Ya,Tidak,8,Baik,60,Tidak,Tidak,3.6,Tidak,Ya
+34,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,60,Tidak,Tidak,5.0,Tidak,Ya
+52,Pria,Tidak,Sangat sering,Ya,Ya,Tidak,7,Baik,90,Ya,Tidak,8.4,Ya,Ya
+41,Wanita,Tidak,Sangat sering,Tidak,Ya,Ya,7,Baik,30,Tidak,Ya,5.7,Ya,Ya
+45,Pria,Tidak,Jarang,Ya,Tidak,Tidak,6,Baik,90,Tidak,Tidak,5.1,Ya,Tidak
+39,Wanita,Ya,Sering,Ya,Ya,Tidak,8,Baik,60,Tidak,Ya,7.1,Ya,Ya
+62,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,6,Baik,90,Ya,Ya,10.7,Ya,Tidak
+63,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,6.7,Tidak,Tidak
+18,Pria,Tidak,Sering,Tidak,Tidak,Ya,8,Baik,60,Ya,Tidak,5.6,Tidak,Ya
+59,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,60,Ya,Tidak,4.3,Ya,Ya
+68,Pria,Tidak,Sering,Ya,Tidak,Tidak,6,Baik,60,Ya,Tidak,4.7,Tidak,Ya
+37,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Ya,2.1,Ya,Ya
+51,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,90,Ya,Ya,8.9,Tidak,Tidak
+43,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,7,Baik,90,Ya,Ya,6.1,Tidak,Tidak
+33,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,11.0,Tidak,Tidak
+20,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,9.0,Tidak,Tidak
+59,Wanita,Tidak,Sangat sering,Tidak,Ya,Tidak,8,Baik,90,Tidak,Tidak,9.1,Tidak,Ya
+53,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Ya,6.3,Tidak,Tidak
+65,Wanita,Ya,Sering,Tidak,Ya,Tidak,9,Baik,90,Tidak,Tidak,8.4,Ya,Ya
+46,Pria,Ya,Kadang-kadang,Ya,Ya,Ya,6,Baik,60,Ya,Tidak,4.1,Tidak,Ya
+48,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,9.7,Tidak,Tidak
+37,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,9,Baik,60,Ya,Tidak,9.9,Ya,Ya
+28,Wanita,Ya,Sering,Ya,Ya,Ya,8,Baik,30,Ya,Ya,5.3,Ya,Ya
+63,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,8,Baik,90,Tidak,Tidak,9.8,Ya,Ya
+62,Wanita,Ya,Sering,Ya,Tidak,Tidak,7,Baik,90,Ya,Ya,4.9,Tidak,Ya
+60,Wanita,Ya,Sering,Ya,Ya,Ya,8,Baik,60,Ya,Tidak,6.2,Tidak,Ya
+20,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,8,Baik,30,Ya,Tidak,3.1,Tidak,Ya
+45,Pria,Tidak,Sering,Tidak,Ya,Ya,6,Baik,30,Tidak,Ya,9.8,Tidak,Ya
+69,Pria,Ya,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,90,Ya,Tidak,11.6,Ya,Tidak
+45,Pria,Ya,Sangat sering,Ya,Ya,Ya,7,Baik,60,Tidak,Tidak,8.0,Tidak,Ya
+33,Pria,Tidak,Sering,Ya,Tidak,Ya,8,Baik,60,Tidak,Tidak,7.5,Tidak,Ya
+39,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,10.8,Tidak,Ya
+59,Pria,Ya,Sering,Ya,Ya,Ya,6,Baik,90,Tidak,Tidak,4.6,Ya,Ya
+47,Pria,Ya,Sering,Ya,Ya,Tidak,7,Baik,30,Tidak,Tidak,10.5,Tidak,Ya
+67,Wanita,Ya,Sering,Tidak,Ya,Ya,9,Baik,30,Tidak,Tidak,11.9,Ya,Ya
+30,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,11.2,Tidak,Tidak
+32,Pria,Tidak,Jarang,Ya,Ya,Tidak,8,Baik,30,Ya,Ya,8.1,Tidak,Tidak
+65,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Ya,3.9,Tidak,Ya
+36,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,6.0,Tidak,Ya
+66,Pria,Tidak,Jarang,Ya,Tidak,Tidak,7,Baik,60,Ya,Ya,10.3,Ya,Tidak
+21,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,7,Baik,60,Ya,Tidak,2.1,Ya,Ya
+66,Pria,Tidak,Sangat sering,Tidak,Tidak,Tidak,8,Baik,90,Ya,Ya,5.7,Tidak,Ya
+47,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,60,Ya,Ya,3.7,Tidak,Ya
+35,Pria,Tidak,Sering,Tidak,Ya,Ya,9,Baik,30,Ya,Tidak,7.5,Tidak,Ya
+41,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,2.4,Tidak,Ya
+23,Pria,Ya,Sering,Ya,Ya,Tidak,8,Baik,30,Ya,Tidak,6.4,Tidak,Ya
+61,Pria,Ya,Sering,Tidak,Ya,Ya,9,Baik,60,Ya,Tidak,6.5,Ya,Ya
+44,Pria,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,60,Ya,Tidak,10.6,Tidak,Ya
+28,Wanita,Ya,Sering,Ya,Tidak,Ya,7,Baik,30,Ya,Tidak,9.4,Ya,Ya
+53,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,4.9,Ya,Ya
+25,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Ya,4.3,Tidak,Ya
+41,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,7.8,Ya,Tidak
+28,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,7,Baik,60,Tidak,Tidak,6.5,Ya,Tidak
+20,Wanita,Tidak,Sangat sering,Tidak,Ya,Ya,9,Baik,90,Tidak,Tidak,5.2,Tidak,Ya
+31,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Ya,7.5,Ya,Tidak
+39,Pria,Tidak,Sering,Ya,Ya,Ya,7,Baik,30,Ya,Ya,7.9,Tidak,Ya
+68,Pria,Ya,Sangat sering,Tidak,Ya,Ya,9,Baik,30,Tidak,Ya,6.4,Ya,Ya
+42,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,4.4,Ya,Ya
+33,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,60,Tidak,Tidak,11.9,Tidak,Tidak
+37,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Ya,7,Baik,60,Ya,Ya,10.1,Ya,Tidak
+38,Wanita,Ya,Sangat sering,Tidak,Ya,Tidak,6,Baik,30,Ya,Tidak,9.5,Tidak,Ya
+61,Wanita,Ya,Sering,Ya,Ya,Ya,7,Baik,60,Ya,Tidak,9.3,Tidak,Ya
+21,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Tidak,5.2,Ya,Tidak
+22,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,6,Baik,60,Tidak,Tidak,3.8,Tidak,Ya
+34,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,8.4,Ya,Tidak
+68,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,8,Baik,30,Tidak,Ya,2.8,Ya,Ya
+44,Wanita,Ya,Sering,Tidak,Tidak,Ya,6,Baik,30,Ya,Tidak,10.7,Ya,Ya
+65,Pria,Tidak,Sering,Ya,Tidak,Ya,6,Baik,90,Ya,Ya,3.9,Ya,Ya
+70,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,30,Tidak,Tidak,2.9,Tidak,Ya
+61,Wanita,Ya,Sering,Ya,Tidak,Tidak,9,Baik,60,Ya,Tidak,2.5,Ya,Ya
+23,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Ya,9.9,Ya,Tidak
+30,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,60,Ya,Tidak,2.3,Tidak,Ya
+51,Pria,Tidak,Sering,Tidak,Ya,Ya,7,Baik,90,Ya,Tidak,9.8,Ya,Ya
+50,Wanita,Ya,Sering,Ya,Ya,Tidak,8,Baik,90,Tidak,Ya,4.2,Tidak,Ya
+33,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,6,Baik,60,Ya,Tidak,2.4,Tidak,Ya
+18,Pria,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,60,Ya,Tidak,5.1,Tidak,Ya
+64,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,8,Baik,90,Ya,Tidak,11.1,Tidak,Tidak
+56,Pria,Ya,Sering,Tidak,Ya,Ya,7,Baik,90,Ya,Tidak,2.5,Ya,Ya
+29,Wanita,Ya,Sering,Ya,Tidak,Tidak,6,Baik,90,Ya,Tidak,6.1,Ya,Ya
+60,Pria,Tidak,Sering,Ya,Tidak,Ya,6,Baik,30,Ya,Tidak,4.4,Tidak,Ya
+65,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,10.7,Tidak,Tidak
+40,Wanita,Ya,Sering,Tidak,Ya,Ya,6,Baik,90,Ya,Tidak,2.0,Ya,Ya
+66,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Ya,2.3,Ya,Ya
+51,Wanita,Ya,Sering,Ya,Ya,Ya,6,Baik,60,Ya,Tidak,11.0,Tidak,Ya
+24,Pria,Tidak,Sering,Ya,Ya,Tidak,7,Baik,90,Tidak,Tidak,3.3,Tidak,Ya
+48,Pria,Tidak,Sangat sering,Ya,Ya,Ya,6,Baik,30,Tidak,Tidak,8.4,Ya,Ya
+60,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,6,Baik,30,Ya,Tidak,11.6,Ya,Ya
+28,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,4.5,Tidak,Ya
+65,Pria,Tidak,Sering,Tidak,Tidak,Ya,9,Baik,60,Tidak,Ya,5.4,Tidak,Ya
+20,Wanita,Ya,Sering,Ya,Ya,Ya,7,Baik,90,Ya,Ya,11.2,Ya,Ya
+70,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,7.8,Ya,Tidak
+65,Pria,Ya,Sering,Ya,Ya,Ya,9,Baik,90,Ya,Tidak,9.4,Tidak,Ya
+62,Wanita,Ya,Sering,Tidak,Tidak,Ya,7,Baik,90,Ya,Ya,6.6,Tidak,Ya
+61,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Ya,9.4,Ya,Tidak
+67,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,9,Baik,90,Ya,Tidak,3.1,Ya,Ya
+20,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,3.0,Tidak,Ya
+23,Pria,Ya,Jarang,Tidak,Ya,Tidak,9,Baik,30,Tidak,Ya,5.1,Ya,Tidak
+48,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Ya,7.0,Tidak,Tidak
+50,Pria,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Ya,5.6,Tidak,Tidak
+54,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,4.3,Tidak,Ya
+41,Pria,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,30,Ya,Ya,5.7,Ya,Ya
+64,Pria,Ya,Sering,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,10.1,Ya,Ya
+61,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,8,Baik,90,Ya,Tidak,7.6,Ya,Ya
+24,Pria,Tidak,Sering,Ya,Tidak,Ya,6,Baik,60,Tidak,Tidak,8.5,Tidak,Ya
+27,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,8,Baik,30,Ya,Tidak,7.0,Tidak,Ya
+66,Pria,Ya,Sering,Tidak,Ya,Tidak,8,Baik,30,Tidak,Ya,9.8,Ya,Ya
+66,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Ya,7.8,Ya,Tidak
+18,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,7,Baik,30,Tidak,Tidak,7.0,Ya,Ya
+68,Wanita,Ya,Kadang-kadang,Tidak,Ya,Tidak,8,Baik,30,Ya,Tidak,3.6,Ya,Ya
+28,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Tidak,10.9,Tidak,Tidak
+54,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,8,Baik,60,Ya,Ya,3.9,Tidak,Ya
+29,Wanita,Ya,Sering,Ya,Tidak,Ya,9,Baik,30,Tidak,Ya,11.9,Ya,Ya
+46,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,11.7,Ya,Tidak
+54,Pria,Ya,Sering,Tidak,Tidak,Ya,6,Baik,90,Ya,Tidak,4.2,Tidak,Ya
+65,Pria,Ya,Sering,Ya,Tidak,Ya,9,Baik,60,Tidak,Tidak,9.2,Ya,Ya
+56,Wanita,Tidak,Sering,Ya,Ya,Tidak,7,Baik,30,Ya,Ya,11.0,Ya,Ya
+70,Pria,Tidak,Jarang,Tidak,Ya,Tidak,6,Baik,30,Ya,Tidak,8.2,Ya,Tidak
+51,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,8,Baik,90,Tidak,Tidak,4.5,Tidak,Ya
+44,Wanita,Ya,Sering,Ya,Ya,Tidak,7,Baik,60,Ya,Ya,7.0,Ya,Ya
+66,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,7.8,Tidak,Tidak
+47,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Ya,7.1,Ya,Tidak
+31,Wanita,Ya,Sering,Ya,Ya,Tidak,9,Baik,30,Ya,Tidak,8.7,Tidak,Ya
+49,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Tidak,11.6,Tidak,Tidak
+67,Pria,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,60,Ya,Ya,3.6,Tidak,Ya
+59,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,30,Ya,Ya,3.0,Tidak,Ya
+24,Pria,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Tidak,5.0,Ya,Tidak
+66,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,9,Baik,30,Ya,Tidak,2.4,Tidak,Ya
+58,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,7,Baik,90,Tidak,Tidak,4.3,Tidak,Ya
+19,Wanita,Ya,Sangat sering,Tidak,Ya,Tidak,8,Baik,30,Tidak,Tidak,11.9,Ya,Ya
+42,Pria,Tidak,Sangat sering,Ya,Ya,Ya,9,Baik,90,Ya,Ya,6.7,Tidak,Ya
+44,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,9,Baik,60,Ya,Ya,4.4,Tidak,Ya
+64,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,8.0,Ya,Tidak
+54,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Tidak,Tidak,5.9,Ya,Tidak
+49,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,7,Baik,60,Tidak,Tidak,11.7,Ya,Ya
+45,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,6,Baik,60,Ya,Tidak,6.0,Ya,Ya
+38,Pria,Ya,Sangat sering,Ya,Ya,Ya,7,Baik,30,Tidak,Tidak,11.8,Tidak,Ya
+56,Pria,Tidak,Sangat sering,Tidak,Tidak,Tidak,6,Baik,30,Ya,Tidak,10.0,Ya,Ya
+39,Pria,Tidak,Sangat sering,Ya,Tidak,Tidak,9,Baik,60,Ya,Ya,10.7,Tidak,Ya
+35,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Tidak,2.8,Ya,Ya
+70,Pria,Tidak,Sangat sering,Ya,Ya,Ya,9,Baik,60,Ya,Tidak,9.4,Tidak,Ya
+48,Pria,Ya,Jarang,Ya,Tidak,Ya,9,Baik,60,Ya,Tidak,8.2,Ya,Tidak
+20,Wanita,Ya,Sering,Tidak,Ya,Ya,6,Baik,90,Ya,Tidak,3.9,Ya,Ya
+40,Wanita,Ya,Sangat sering,Ya,Tidak,Tidak,8,Baik,60,Ya,Ya,11.2,Tidak,Ya
+44,Pria,Tidak,Jarang,Tidak,Tidak,Ya,8,Baik,60,Ya,Ya,10.2,Tidak,Tidak
+65,Pria,Ya,Sangat sering,Tidak,Ya,Ya,7,Baik,90,Ya,Tidak,9.5,Tidak,Ya
+61,Wanita,Tidak,Jarang,Ya,Ya,Ya,9,Baik,90,Ya,Ya,9.1,Tidak,Tidak
+64,Wanita,Ya,Sering,Ya,Tidak,Tidak,8,Baik,90,Ya,Ya,9.3,Ya,Ya
+25,Wanita,Tidak,Sering,Tidak,Ya,Tidak,9,Baik,60,Tidak,Tidak,11.8,Ya,Ya
+61,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,7.5,Tidak,Tidak
+49,Pria,Ya,Jarang,Ya,Tidak,Tidak,6,Baik,90,Tidak,Tidak,5.4,Tidak,Tidak
+54,Pria,Ya,Sangat sering,Tidak,Ya,Ya,7,Baik,30,Ya,Tidak,7.5,Tidak,Ya
+55,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,7,Baik,90,Tidak,Ya,2.8,Tidak,Ya
+35,Pria,Ya,Sering,Ya,Ya,Ya,6,Baik,90,Ya,Tidak,5.8,Tidak,Ya
+31,Wanita,Ya,Sangat sering,Ya,Ya,Ya,7,Baik,60,Ya,Tidak,11.0,Ya,Ya
+37,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,10.8,Ya,Tidak
+41,Pria,Ya,Sangat sering,Tidak,Tidak,Ya,6,Baik,90,Ya,Tidak,4.4,Ya,Ya
+49,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,90,Ya,Tidak,3.4,Ya,Ya
+36,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,8.2,Ya,Tidak
+47,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Ya,8.0,Ya,Tidak
+46,Wanita,Ya,Sangat sering,Tidak,Tidak,Tidak,7,Baik,90,Ya,Ya,3.8,Ya,Ya
+62,Wanita,Ya,Sangat sering,Tidak,Tidak,Ya,8,Baik,60,Tidak,Tidak,7.2,Ya,Ya
+54,Pria,Ya,Sering,Ya,Ya,Tidak,9,Baik,60,Ya,Ya,5.5,Tidak,Ya
+25,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,5.3,Tidak,Tidak
+38,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,9.4,Ya,Tidak
+47,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,60,Ya,Tidak,8.8,Tidak,Tidak
+41,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,60,Ya,Ya,5.5,Tidak,Tidak
+60,Wanita,Ya,Sering,Tidak,Ya,Ya,6,Baik,30,Tidak,Tidak,3.6,Ya,Ya
+40,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,7,Baik,60,Ya,Tidak,5.0,Tidak,Tidak
+45,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Tidak,7.9,Tidak,Tidak
+20,Wanita,Ya,Sering,Tidak,Ya,Tidak,9,Baik,30,Ya,Tidak,9.4,Tidak,Ya
+67,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,90,Tidak,Tidak,8.2,Tidak,Tidak
+47,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Ya,Tidak,10.5,Tidak,Tidak
+45,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Tidak,10.2,Ya,Tidak
+47,Pria,Tidak,Sangat sering,Ya,Tidak,Ya,8,Baik,90,Ya,Tidak,11.6,Ya,Ya
+69,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Ya,2.0,Ya,Ya
+37,Pria,Tidak,Sering,Ya,Tidak,Ya,8,Baik,30,Ya,Tidak,10.2,Tidak,Ya
+50,Pria,Tidak,Jarang,Ya,Tidak,Tidak,8,Baik,90,Tidak,Ya,10.1,Tidak,Tidak
+20,Pria,Ya,Sering,Tidak,Tidak,Tidak,6,Baik,60,Ya,Ya,9.0,Ya,Ya
+45,Pria,Tidak,Sering,Ya,Tidak,Ya,7,Baik,60,Ya,Ya,8.6,Ya,Ya
+27,Pria,Tidak,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,90,Tidak,Tidak,6.2,Tidak,Tidak
+26,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,30,Ya,Tidak,2.5,Ya,Ya
+57,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Ya,2.2,Ya,Ya
+57,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,90,Tidak,Tidak,6.8,Ya,Tidak
+27,Wanita,Ya,Sangat sering,Ya,Ya,Ya,8,Baik,30,Ya,Tidak,2.6,Ya,Ya
+20,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,7,Baik,60,Ya,Tidak,5.3,Ya,Ya
+28,Wanita,Ya,Sering,Ya,Tidak,Ya,6,Baik,60,Ya,Tidak,5.7,Ya,Ya
+20,Pria,Tidak,Sering,Ya,Ya,Ya,6,Baik,90,Ya,Ya,2.5,Tidak,Ya
+60,Wanita,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,90,Ya,Tidak,11.4,Ya,Tidak
+45,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,10.2,Ya,Tidak
+28,Wanita,Ya,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,90,Tidak,Ya,4.0,Tidak,Ya
+24,Pria,Ya,Sangat sering,Ya,Ya,Tidak,6,Baik,60,Ya,Tidak,8.5,Ya,Ya
+33,Wanita,Ya,Sering,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,7.4,Tidak,Ya
+27,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,10.6,Tidak,Tidak
+38,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Ya,Tidak,3.3,Ya,Ya
+21,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,5.3,Ya,Tidak
+52,Wanita,Ya,Sering,Ya,Ya,Tidak,6,Baik,60,Tidak,Tidak,4.9,Tidak,Ya
+24,Wanita,Ya,Sering,Ya,Ya,Tidak,8,Baik,30,Tidak,Tidak,5.0,Tidak,Ya
+23,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,60,Ya,Ya,5.8,Tidak,Ya
+39,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,2.2,Ya,Ya
+48,Wanita,Tidak,Jarang,Tidak,Ya,Tidak,7,Baik,90,Ya,Tidak,11.6,Tidak,Tidak
+51,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,6,Baik,60,Tidak,Tidak,3.5,Ya,Ya
+40,Wanita,Tidak,Sangat sering,Ya,Tidak,Ya,7,Baik,60,Tidak,Ya,2.4,Tidak,Ya
+42,Wanita,Ya,Sering,Ya,Tidak,Tidak,9,Baik,90,Tidak,Tidak,5.5,Tidak,Ya
+27,Pria,Tidak,Sering,Tidak,Tidak,Ya,9,Baik,60,Tidak,Ya,8.8,Tidak,Ya
+42,Pria,Ya,Sering,Ya,Ya,Tidak,7,Baik,90,Tidak,Ya,4.4,Tidak,Ya
+42,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,9,Baik,90,Tidak,Ya,3.4,Ya,Ya
+38,Wanita,Tidak,Sering,Ya,Tidak,Tidak,8,Baik,90,Ya,Ya,9.0,Tidak,Ya
+51,Pria,Ya,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,9.4,Ya,Tidak
+43,Wanita,Ya,Sering,Tidak,Ya,Tidak,7,Baik,30,Tidak,Tidak,8.6,Ya,Ya
+20,Wanita,Tidak,Sering,Ya,Ya,Ya,6,Baik,60,Ya,Tidak,8.4,Tidak,Ya
+68,Pria,Tidak,Sangat sering,Ya,Ya,Ya,7,Baik,30,Tidak,Tidak,9.8,Tidak,Ya
+28,Pria,Tidak,Sangat sering,Ya,Ya,Tidak,6,Baik,90,Tidak,Tidak,2.6,Tidak,Ya
+65,Pria,Ya,Sering,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Tidak,10.0,Tidak,Ya
+56,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,7,Baik,30,Tidak,Tidak,2.0,Tidak,Ya
+65,Wanita,Tidak,Sangat sering,Ya,Tidak,Tidak,9,Baik,60,Ya,Tidak,9.9,Ya,Ya
+24,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Tidak,11.2,Tidak,Tidak
+56,Pria,Ya,Sering,Ya,Ya,Ya,8,Baik,30,Ya,Ya,11.9,Ya,Ya
+29,Pria,Ya,Kadang-kadang,Tidak,Tidak,Ya,9,Baik,90,Ya,Tidak,6.0,Tidak,Tidak
+40,Wanita,Ya,Sangat sering,Ya,Tidak,Ya,8,Baik,30,Ya,Ya,5.6,Tidak,Ya
+22,Pria,Ya,Sangat sering,Ya,Tidak,Ya,9,Baik,60,Ya,Ya,6.7,Tidak,Ya
+51,Wanita,Ya,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,30,Tidak,Tidak,8.4,Ya,Tidak
+57,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Tidak,8.2,Ya,Tidak
+49,Pria,Ya,Sering,Ya,Ya,Ya,8,Baik,90,Ya,Ya,2.3,Tidak,Ya
+38,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Ya,8,Baik,60,Tidak,Tidak,5.0,Ya,Tidak
+62,Pria,Ya,Jarang,Ya,Tidak,Tidak,6,Baik,90,Tidak,Ya,8.6,Ya,Tidak
+31,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,60,Tidak,Tidak,7.7,Tidak,Tidak
+33,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,30,Ya,Tidak,3.8,Ya,Ya
+28,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,8,Baik,60,Tidak,Ya,10.6,Tidak,Tidak
+31,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Ya,3.7,Ya,Ya
+57,Wanita,Ya,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Ya,Tidak,2.8,Ya,Ya
+38,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Tidak,3.5,Ya,Ya
+22,Pria,Ya,Kadang-kadang,Tidak,Ya,Tidak,9,Baik,90,Ya,Tidak,7.9,Tidak,Tidak
+40,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Ya,6,Baik,90,Ya,Tidak,3.3,Tidak,Ya
+46,Wanita,Tidak,Sering,Ya,Ya,Tidak,8,Baik,90,Tidak,Tidak,7.0,Tidak,Ya
+25,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Ya,11.7,Ya,Tidak
+51,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Ya,Tidak,11.2,Tidak,Tidak
+41,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,7,Baik,90,Tidak,Tidak,11.7,Ya,Ya
+65,Wanita,Ya,Sangat sering,Tidak,Ya,Tidak,7,Baik,90,Tidak,Tidak,3.5,Tidak,Ya
+20,Wanita,Ya,Sering,Ya,Ya,Tidak,9,Baik,90,Ya,Ya,7.7,Ya,Ya
+64,Pria,Ya,Sering,Tidak,Ya,Ya,8,Baik,30,Ya,Tidak,9.5,Tidak,Ya
+32,Pria,Ya,Kadang-kadang,Ya,Tidak,Tidak,7,Baik,60,Tidak,Tidak,6.6,Ya,Tidak
+68,Pria,Tidak,Sering,Tidak,Tidak,Ya,7,Baik,30,Ya,Tidak,2.4,Ya,Ya
+21,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,90,Ya,Tidak,11.9,Tidak,Tidak
+69,Pria,Tidak,Sangat sering,Tidak,Tidak,Ya,6,Baik,90,Tidak,Tidak,4.3,Ya,Ya
+40,Pria,Ya,Sangat sering,Tidak,Ya,Tidak,8,Baik,30,Tidak,Ya,9.4,Ya,Ya
+66,Wanita,Tidak,Kadang-kadang,Ya,Tidak,Tidak,9,Baik,90,Tidak,Tidak,4.6,Ya,Ya
+60,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,60,Ya,Ya,10.1,Ya,Tidak
+40,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Tidak,2.0,Ya,Ya
+56,Pria,Ya,Sangat sering,Ya,Tidak,Ya,9,Baik,60,Ya,Tidak,4.9,Tidak,Ya
+57,Wanita,Ya,Sangat sering,Ya,Ya,Ya,7,Baik,90,Ya,Tidak,4.6,Ya,Ya
+39,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Ya,Ya,3.3,Tidak,Ya
+18,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,9,Baik,30,Tidak,Ya,9.6,Tidak,Tidak
+35,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,8.9,Tidak,Tidak
+58,Pria,Tidak,Jarang,Tidak,Ya,Ya,8,Baik,30,Tidak,Tidak,10.2,Tidak,Tidak
+62,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Ya,Ya,4.0,Tidak,Ya
+44,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Ya,9.3,Tidak,Tidak
+36,Pria,Tidak,Jarang,Tidak,Tidak,Ya,7,Baik,30,Ya,Tidak,2.4,Tidak,Ya
+21,Pria,Tidak,Kadang-kadang,Tidak,Tidak,Ya,8,Baik,30,Ya,Tidak,10.1,Ya,Tidak
+37,Wanita,Tidak,Jarang,Tidak,Ya,Ya,9,Baik,30,Tidak,Tidak,7.4,Ya,Tidak
+24,Pria,Ya,Sangat sering,Ya,Tidak,Tidak,6,Baik,60,Ya,Ya,7.8,Tidak,Ya
+47,Pria,Ya,Sering,Ya,Ya,Tidak,9,Baik,60,Tidak,Tidak,10.7,Tidak,Ya
+23,Wanita,Tidak,Sangat sering,Ya,Ya,Ya,9,Baik,90,Tidak,Ya,7.2,Tidak,Ya
+23,Wanita,Ya,Sering,Ya,Ya,Ya,9,Baik,90,Ya,Tidak,2.2,Ya,Ya
+36,Pria,Ya,Sangat sering,Ya,Ya,Ya,6,Baik,60,Ya,Tidak,9.0,Tidak,Ya
+30,Pria,Tidak,Jarang,Ya,Ya,Tidak,7,Baik,90,Tidak,Tidak,11.7,Ya,Tidak
+49,Pria,Ya,Sering,Tidak,Tidak,Ya,9,Baik,60,Tidak,Tidak,6.8,Ya,Ya
+31,Wanita,Ya,Sangat sering,Tidak,Ya,Ya,7,Baik,60,Ya,Tidak,9.6,Ya,Ya
+18,Wanita,Tidak,Sering,Ya,Tidak,Tidak,6,Baik,60,Ya,Tidak,6.9,Ya,Ya
+43,Pria,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,60,Tidak,Tidak,7.2,Ya,Tidak
+35,Wanita,Ya,Sering,Ya,Tidak,Tidak,9,Baik,90,Ya,Tidak,6.8,Tidak,Ya
+32,Pria,Ya,Sering,Tidak,Ya,Ya,6,Baik,60,Tidak,Tidak,10.4,Ya,Ya
+29,Pria,Ya,Sangat sering,Tidak,Ya,Ya,6,Baik,30,Ya,Tidak,10.9,Ya,Ya
+39,Wanita,Tidak,Sangat sering,Tidak,Tidak,Tidak,7,Baik,90,Tidak,Tidak,11.5,Tidak,Ya
+31,Wanita,Ya,Jarang,Tidak,Tidak,Ya,8,Baik,90,Ya,Tidak,10.8,Ya,Tidak
+24,Pria,Ya,Sangat sering,Tidak,Tidak,Ya,6,Baik,60,Tidak,Ya,9.7,Ya,Ya
+21,Pria,Ya,Jarang,Tidak,Tidak,Tidak,9,Baik,30,Tidak,Tidak,5.7,Ya,Tidak
+19,Wanita,Ya,Sering,Ya,Ya,Tidak,7,Baik,90,Ya,Tidak,3.3,Tidak,Ya
+43,Wanita,Ya,Sangat sering,Ya,Ya,Tidak,6,Baik,60,Tidak,Ya,4.9,Ya,Ya
+22,Pria,Ya,Kadang-kadang,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Tidak,9.7,Tidak,Tidak
+28,Pria,Ya,Sering,Tidak,Ya,Ya,6,Baik,30,Ya,Ya,6.0,Tidak,Ya
+47,Pria,Ya,Sering,Ya,Ya,Ya,7,Baik,60,Tidak,Tidak,4.4,Ya,Ya
+30,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,6,Baik,90,Tidak,Ya,6.3,Tidak,Tidak
+70,Pria,Ya,Sangat sering,Ya,Ya,Tidak,7,Baik,30,Ya,Tidak,8.1,Tidak,Ya
+65,Wanita,Ya,Sering,Ya,Ya,Ya,9,Baik,90,Tidak,Tidak,10.0,Ya,Ya
+38,Wanita,Ya,Sering,Ya,Tidak,Ya,9,Baik,60,Tidak,Ya,11.7,Tidak,Ya
+30,Pria,Ya,Sering,Tidak,Tidak,Ya,8,Baik,30,Ya,Tidak,11.4,Ya,Ya
+22,Wanita,Tidak,Kadang-kadang,Tidak,Ya,Tidak,6,Baik,60,Ya,Tidak,6.7,Ya,Tidak
+46,Wanita,Ya,Sangat sering,Ya,Ya,Ya,6,Baik,90,Tidak,Tidak,2.8,Tidak,Ya
+36,Pria,Ya,Sering,Ya,Tidak,Tidak,9,Baik,30,Ya,Ya,11.8,Tidak,Ya
+58,Pria,Ya,Sangat sering,Tidak,Ya,Ya,9,Baik,60,Ya,Tidak,5.8,Ya,Ya
+27,Wanita,Tidak,Jarang,Ya,Tidak,Tidak,8,Baik,30,Ya,Tidak,10.3,Ya,Tidak
+56,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,8,Baik,90,Tidak,Tidak,4.4,Tidak,Ya
+24,Pria,Ya,Sangat sering,Tidak,Tidak,Tidak,8,Baik,60,Tidak,Ya,3.4,Tidak,Ya
+56,Pria,Ya,Jarang,Ya,Ya,Tidak,8,Baik,60,Ya,Ya,7.6,Tidak,Tidak
+59,Wanita,Ya,Sangat sering,Tidak,Ya,Tidak,8,Baik,30,Ya,Tidak,2.5,Ya,Ya
+44,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,6,Baik,90,Tidak,Tidak,10.5,Ya,Tidak
+52,Pria,Tidak,Sangat sering,Tidak,Tidak,Tidak,7,Baik,60,Ya,Tidak,6.9,Tidak,Ya
+41,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,9,Baik,90,Ya,Tidak,2.9,Ya,Ya
+25,Pria,Tidak,Sangat sering,Ya,Ya,Tidak,8,Baik,90,Ya,Tidak,5.2,Tidak,Ya
+49,Wanita,Tidak,Kadang-kadang,Tidak,Tidak,Tidak,6,Baik,30,Tidak,Ya,10.7,Ya,Tidak
+22,Pria,Tidak,Jarang,Tidak,Tidak,Tidak,7,Baik,60,Tidak,Tidak,11.4,Tidak,Tidak
+59,Wanita,Tidak,Jarang,Tidak,Tidak,Tidak,8,Baik,30,Tidak,Tidak,11.8,Ya,Tidak
