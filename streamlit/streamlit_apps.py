@@ -10,6 +10,11 @@ import os
 cwd = os.getcwd()
 st.write(f"Current Working Directory: {cwd}")
 
+# Menampilkan isi direktori saat ini
+files_in_cwd = os.listdir(cwd)
+st.write(f"Isi dari direktori {cwd}:")
+st.write(files_in_cwd)
+
 # Memuat model yang sudah dilatih
 model = xgb.Booster(model_file="/model/xgb_narkolepsi.json")
 X_train = joblib.load("/model/train_data.pkl")
