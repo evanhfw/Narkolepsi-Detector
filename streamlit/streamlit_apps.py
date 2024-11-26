@@ -6,19 +6,6 @@ import pandas as pd
 import joblib
 import os
 
-# Menampilkan CWD (current working directory)
-cwd = os.getcwd()
-st.write(f"Current Working Directory: {cwd}")
-
-# Menampilkan isi dari folder cwd/model
-model_dir = os.path.join(cwd, 'model')  # Menyusun path ke folder 'model'
-if os.path.exists(model_dir):
-    files_in_model_dir = os.listdir(model_dir)
-    st.write(f"Isi dari folder {model_dir}:")
-    st.write(files_in_model_dir)
-else:
-    st.write(f"Folder '{model_dir}' tidak ditemukan.")
-
 # Memuat model yang sudah dilatih
 model = xgb.Booster(model_file="/mount/src/narkolepsi-detector/model/xgb_narkolepsi.json")
 X_train = joblib.load("/mount/src/narkolepsi-detector/model/train_data.pkl")
