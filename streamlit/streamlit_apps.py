@@ -20,8 +20,8 @@ else:
     st.write(f"Folder '{model_dir}' tidak ditemukan.")
 
 # Memuat model yang sudah dilatih
-model = xgb.Booster(model_file="/model/xgb_narkolepsi.json")
-X_train = joblib.load("/model/train_data.pkl")
+model = xgb.Booster(model_file="/mount/src/narkolepsi-detector/model/xgb_narkolepsi.json")
+X_train = joblib.load("/mount/src/narkolepsi-detector/model/train_data.pkl")
 
 # UI Streamlit
 st.set_page_config(page_title="Deteksi Narkolepsi", page_icon="🧠", layout="wide")
