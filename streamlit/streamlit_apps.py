@@ -4,6 +4,11 @@ import streamlit as st
 import xgboost as xgb
 import pandas as pd
 import joblib
+import os
+
+# Menampilkan CWD (current working directory)
+cwd = os.getcwd()
+st.write(f"Current Working Directory: {cwd}")
 
 # Memuat model yang sudah dilatih
 model = xgb.Booster(model_file="/model/xgb_narkolepsi.json")
