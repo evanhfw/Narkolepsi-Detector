@@ -25,45 +25,93 @@ st.write(
 with st.form(key="narkolepsi_form"):
     st.header("Informasi Pengguna")
 
-    usia = st.number_input("Usia", min_value=18, max_value=100, value=30)
-    jenis_kelamin = st.selectbox("Jenis Kelamin", ["Pria", "Wanita"])
+    usia = st.number_input(
+        "Usia",
+        min_value=18,
+        max_value=100,
+        value=30,
+        help="Usia pengguna, berkisar antara 18 hingga 100 tahun."
+    )
+    jenis_kelamin = st.selectbox(
+        "Jenis Kelamin",
+        ["Pria", "Wanita"],
+        help="Jenis kelamin pengguna. Ini akan digunakan untuk menilai faktor risiko berdasarkan gender."
+    )
     riwayat_family_narkolepsi = st.selectbox(
-        "Riwayat Narkolepsi di Keluarga", ["Tidak", "Ya"]
+        "Riwayat Narkolepsi di Keluarga",
+        ["Tidak", "Ya"],
+        help="Apakah ada anggota keluarga yang pernah didiagnosis narkolepsi? Ini dapat menunjukkan faktor genetik."
     )
 
     st.header("Kualitas Tidur & Gangguan Tidur")
 
     frekuensi_kantuk_siang = st.selectbox(
-        "Frekuensi Kantuk Siang", ["Jarang", "Kadang-kadang", "Sering", "Sangat sering"]
+        "Frekuensi Kantuk Siang",
+        ["Jarang", "Kadang-kadang", "Sering", "Sangat sering"],
+        help="Seberapa sering Anda merasa mengantuk pada siang hari? Gejala ini terkait dengan narkolepsi."
     )
-    pengalaman_katapleksi = st.selectbox("Pengalaman Katapleksi", ["Tidak", "Ya"])
+    pengalaman_katapleksi = st.selectbox(
+        "Pengalaman Katapleksi",
+        ["Tidak", "Ya"],
+        help="Apakah Anda pernah mengalami kelemahan otot yang mendalam (katapleksi) saat terkejut atau tertawa?"
+    )
     pengalaman_hallusinasi_tidur = st.selectbox(
-        "Pengalaman Hallusinasi Tidur", ["Tidak", "Ya"]
+        "Pengalaman Hallusinasi Tidur",
+        ["Tidak", "Ya"],
+        help="Apakah Anda pernah mengalami halusinasi saat tidur atau bangun tidur?"
     )
     pengalaman_paralisis_tidur = st.selectbox(
-        "Pengalaman Paralisis Tidur", ["Tidak", "Ya"]
+        "Pengalaman Paralisis Tidur",
+        ["Tidak", "Ya"],
+        help="Apakah Anda pernah mengalami ketidakmampuan bergerak saat terbangun dari tidur?"
     )
 
     st.header("Durasi & Kualitas Tidur")
 
     durasi_tidur_malam = st.number_input(
-        "Durasi Tidur Malam (jam)", min_value=4, max_value=12, value=7
+        "Durasi Tidur Malam (jam)",
+        min_value=4,
+        max_value=12,
+        value=7,
+        help="Berapa jam Anda tidur setiap malam? Durasi tidur yang sangat singkat atau sangat lama dapat menunjukkan gangguan."
     )
     kualitas_tidur_malam = st.selectbox(
-        "Kualitas Tidur Malam", ["Buruk", "Sedang", "Baik"]
+        "Kualitas Tidur Malam",
+        ["Buruk", "Sedang", "Baik"],
+        help="Bagaimana Anda menilai kualitas tidur malam Anda? Tidur yang buruk sering terkait dengan masalah tidur."
     )
     durasi_tidur_siang = st.number_input(
-        "Durasi Tidur Siang (menit)", min_value=0, max_value=180, value=30
+        "Durasi Tidur Siang (menit)",
+        min_value=0,
+        max_value=180,
+        value=30,
+        help="Berapa lama Anda tidur siang? Tidur siang yang terlalu lama dapat mengindikasikan gangguan tidur."
     )
 
     st.header("Faktor Lainnya")
 
-    frekuensi_gangguan_sleep = st.selectbox("Frekuensi Gangguan Tidur", ["Tidak", "Ya"])
-    riwayat_gangguan_medis = st.selectbox("Riwayat Gangguan Medis", ["Tidak", "Ya"])
-    tes_sleep_latency_mslt = st.number_input(
-        "Tes Sleep Latency MSLT (menit)", min_value=0.0, max_value=30.0, value=5.0
+    frekuensi_gangguan_sleep = st.selectbox(
+        "Frekuensi Gangguan Tidur",
+        ["Tidak", "Ya"],
+        help="Apakah Anda sering mengalami gangguan tidur, seperti terbangun di malam hari?"
     )
-    kantuk_dipicu_emosi = st.selectbox("Kantuk Dipicu Emosi", ["Tidak", "Ya"])
+    riwayat_gangguan_medis = st.selectbox(
+        "Riwayat Gangguan Medis",
+        ["Tidak", "Ya"],
+        help="Apakah Anda memiliki riwayat gangguan medis lainnya yang bisa memengaruhi tidur Anda?"
+    )
+    tes_sleep_latency_mslt = st.number_input(
+        "Tes Sleep Latency MSLT (menit)",
+        min_value=0.0,
+        max_value=30.0,
+        value=5.0,
+        help="Hasil dari Tes Sleep Latency MSLT yang mengukur waktu yang dibutuhkan untuk tertidur dalam kondisi tenang."
+    )
+    kantuk_dipicu_emosi = st.selectbox(
+        "Kantuk Dipicu Emosi",
+        ["Tidak", "Ya"],
+        help="Apakah Anda merasa lebih mengantuk saat mengalami perubahan emosi, seperti stres atau kecemasan?"
+    )
 
     submit_button = st.form_submit_button("Prediksi Narkolepsi")
 
