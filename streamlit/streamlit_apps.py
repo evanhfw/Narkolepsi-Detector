@@ -21,11 +21,14 @@ st.write(
     " Data yang Anda masukkan akan digunakan untuk memberikan hasil prediksi yang akurat."
 )
 
-# Deskripsi yang lebih menarik
 st.write(
-    "Isi formulir berikut untuk mengetahui kemungkinan seseorang mengidap narkolepsi."
-    " Data yang Anda masukkan akan digunakan untuk memberikan hasil prediksi yang akurat."
+    "Narkolepsi adalah gangguan tidur neurologis yang menyebabkan kantuk berlebihan dan serangan tidur tiba-tiba. "
+    "Gejalanya meliputi katapleksi (kelemahan otot) dan halusinasi tidur. "
+    "Isi formulir berikut untuk mengetahui kemungkinan seseorang mengidap narkolepsi. "
+    "Data yang Anda masukkan akan digunakan untuk memberikan hasil prediksi yang akurat. "
+    "Jika Anda kurang paham tentang variabel yang dibutuhkan, Anda dapat mengklik tanda '?' untuk penjelasan lebih lanjut."
 )
+
 
 # Membuat input form dengan beberapa kategori
 with st.form(key="narkolepsi_form"):
@@ -53,8 +56,10 @@ with st.form(key="narkolepsi_form"):
 
     frekuensi_kantuk_siang = st.selectbox(
         "Frekuensi Kantuk Siang",
-        ["Jarang", "Kadang-kadang", "Sering", "Sangat sering"],
-        help="Seberapa sering Anda merasa mengantuk pada siang hari? Kantuk berlebihan pada siang hari adalah gejala utama narkolepsi."
+        ["Jarang (1-2 kali seminggu)", "Kadang-kadang (3-4 kali seminggu)", "Sering (5-6 kali seminggu)", "Sangat sering (setiap hari)"],
+        help="Seberapa sering Anda merasa mengantuk pada siang hari? Kantuk berlebihan pada siang hari adalah gejala utama narkolepsi. "
+             "Pilih 'Jarang' jika kantuk terjadi 1-2 kali seminggu, 'Kadang-kadang' untuk 3-4 kali seminggu, "
+             "'Sering' untuk 5-6 kali seminggu, dan 'Sangat sering' jika Anda merasa mengantuk setiap hari."
     )
     pengalaman_katapleksi = st.selectbox(
         "Pengalaman Katapleksi",
