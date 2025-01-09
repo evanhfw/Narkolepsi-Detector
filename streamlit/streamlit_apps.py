@@ -237,16 +237,18 @@ if submit_button:
     st.markdown(f"**Tidak menderita Narkolepsi:** {proba_neg_percentage:.2f}%")
     st.markdown(f"**Menderita Narkolepsi:** {proba_pos_percentage:.2f}%")
 
-    # Visualisasi grafik batang
+    # Visualisasi grafik pie chart
     fig, ax = plt.subplots()
-    ax.bar(
-        ["Tidak Narkolepsi", "Narkolepsi"],
+    ax.pie(
         [proba_neg_percentage, proba_pos_percentage],
-        color=["#3498db", "#e74c3c"],
+        labels=["Tidak Narkolepsi", "Narkolepsi"],
+        colors=["#3498db", "#e74c3c"],
+        autopct="%1.1f%%",
+        startangle=90,
     )
-    ax.set_ylabel("Probabilitas (%)")
-    ax.set_ylim(0, 100)
+    ax.axis("equal")  # Equal aspect ratio ensures that pie is drawn as a circle.
     ax.set_title("Probabilitas Narkolepsi")
+    st.pyplot(fig)ilitas Narkolepsi")
     st.pyplot(fig)
 
     # Memberikan hasil prediksi berdasarkan probabilitas
