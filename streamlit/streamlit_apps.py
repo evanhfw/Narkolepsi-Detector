@@ -248,7 +248,6 @@ if submit_button:
     )
     ax.axis("equal")  # Equal aspect ratio ensures that pie is drawn as a circle.
     ax.set_title("Probabilitas Narkolepsi")
-    st.pyplot(fig)ilitas Narkolepsi")
     st.pyplot(fig)
 
     # Memberikan hasil prediksi berdasarkan probabilitas
