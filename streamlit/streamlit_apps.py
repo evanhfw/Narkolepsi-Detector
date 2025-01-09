@@ -56,7 +56,7 @@ with st.form(key="narkolepsi_form"):
 
     frekuensi_kantuk_siang = st.selectbox(
         "Frekuensi Kantuk Siang",
-        ["Jarang (1-2 kali seminggu)", "Kadang-kadang (3-4 kali seminggu)", "Sering (5-6 kali seminggu)", "Sangat sering (setiap hari)"],
+        ["Jarang", "Kadang-kadang", "Sering", "Sangat sering"],
         help="Seberapa sering Anda merasa mengantuk pada siang hari? Kantuk berlebihan pada siang hari adalah gejala utama narkolepsi. "
              "Pilih 'Jarang' jika kantuk terjadi 1-2 kali seminggu, 'Kadang-kadang' untuk 3-4 kali seminggu, "
              "'Sering' untuk 5-6 kali seminggu, dan 'Sangat sering' jika Anda merasa mengantuk setiap hari."
